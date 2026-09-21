@@ -1,0 +1,58 @@
+<svg width="900" height="720" viewBox="0 0 900 720" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+  <defs>
+    <linearGradient id="unit" x1="316" y1="154" x2="693" y2="407" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F2FFF8" stop-opacity=".98"/>
+      <stop offset="1" stop-color="#B8E8CB" stop-opacity=".92"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="362" y1="250" x2="673" y2="364" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#174C3C"/>
+      <stop offset="1" stop-color="#2D765A"/>
+    </linearGradient>
+    <linearGradient id="air" x1="493" y1="420" x2="493" y2="648" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D9FFEA" stop-opacity=".82"/>
+      <stop offset="1" stop-color="#D9FFEA" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="shadow" x="257" y="100" width="510" height="406" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="20" stdDeviation="22" flood-color="#061D16" flood-opacity=".38"/>
+    </filter>
+  </defs>
+
+  <!-- soft halo -->
+  <circle cx="522" cy="328" r="267" fill="#A9E8C3" fill-opacity=".055"/>
+  <circle cx="522" cy="328" r="210" stroke="#D9FFEA" stroke-opacity=".12" stroke-width="1" stroke-dasharray="3 12"/>
+
+  <!-- wall-mounted indoor unit -->
+  <g filter="url(#shadow)">
+    <path d="M302 165C302 147.327 316.327 133 334 133H681C699.778 133 715 148.222 715 167V335C715 357.091 697.091 375 675 375H344C320.804 375 302 356.196 302 333V165Z" fill="url(#unit)"/>
+    <path d="M302 165C302 147.327 316.327 133 334 133H681C699.778 133 715 148.222 715 167V189H302V165Z" fill="#FFFFFF" fill-opacity=".22"/>
+    <path d="M302 189H715V325C715 352.614 692.614 375 665 375H352C324.386 375 302 352.614 302 325V189Z" fill="url(#panel)"/>
+    <path d="M303 190H714" stroke="#FFFFFF" stroke-opacity=".44" stroke-width="2"/>
+    <path d="M341 214H676L648 341H369L341 214Z" fill="#0F382D" fill-opacity=".42"/>
+    <path d="M349 223H668L642 333H377L349 223Z" fill="#0B2C25" fill-opacity=".74"/>
+
+    <!-- cooling vents -->
+    <g stroke="#B8E8CB" stroke-opacity=".52" stroke-width="4" stroke-linecap="round">
+      <path d="M382 246L395 308"/><path d="M411 242L424 312"/><path d="M440 239L453 315"/>
+      <path d="M469 237L482 317"/><path d="M498 237L511 317"/><path d="M527 237L540 315"/>
+      <path d="M556 239L569 313"/><path d="M585 242L598 311"/><path d="M614 246L627 307"/>
+    </g>
+    <path d="M370 332H644" stroke="#D9FFEA" stroke-opacity=".34" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="652" cy="161" r="6" fill="#84D9A4"/>
+    <circle cx="674" cy="161" r="6" fill="#D9FFEA" fill-opacity=".7"/>
+    <path d="M326 174H356" stroke="#174C3C" stroke-opacity=".35" stroke-width="5" stroke-linecap="round"/>
+  </g>
+
+  <!-- airflow ribbons -->
+  <path d="M386 401C348 459 375 507 351 559C332 601 282 615 258 579" stroke="url(#air)" stroke-width="12" stroke-linecap="round"/>
+  <path d="M468 411C433 475 468 514 450 573C434 623 394 652 354 642" stroke="url(#air)" stroke-width="9" stroke-linecap="round"/>
+  <path d="M552 411C584 466 557 508 579 557C599 602 641 620 681 594" stroke="url(#air)" stroke-width="10" stroke-linecap="round"/>
+  <path d="M620 397C661 449 647 481 675 517C703 552 743 556 772 533" stroke="url(#air)" stroke-width="7" stroke-linecap="round"/>
+
+  <!-- floating cooling details -->
+  <g stroke="#D9FFEA" stroke-linecap="round">
+    <path d="M194 252V293M174 273H215M180 259L209 288M209 259L180 288" stroke-width="5" stroke-opacity=".72"/>
+    <path d="M744 245V277M728 261H760M733 250L755 272M755 250L733 272" stroke-width="4" stroke-opacity=".55"/>
+    <path d="M216 425V451M203 438H229" stroke-width="4" stroke-opacity=".5"/>
+  </g>
+  <path d="M761 371L770 392L791 401L770 410L761 431L752 410L731 401L752 392L761 371Z" fill="#D9FFEA" fill-opacity=".65"/>
+</svg>

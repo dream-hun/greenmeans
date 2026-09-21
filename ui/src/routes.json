@@ -1,0 +1,107 @@
+[
+  {
+    "route": "/",
+    "title": "Sustainability Consulting",
+    "file": "index.html"
+  },
+  {
+    "route": "/about",
+    "title": "About Us",
+    "file": "about/index.html"
+  },
+  {
+    "route": "/service",
+    "title": "Our Services",
+    "file": "service/index.html"
+  },
+  {
+    "route": "/project",
+    "title": "Our Projects",
+    "file": "project/index.html"
+  },
+  {
+    "route": "/contact",
+    "title": "Contact Us",
+    "file": "contact/index.html"
+  },
+  {
+    "route": "/pricing",
+    "title": "Pricing",
+    "file": "pricing/index.html"
+  },
+  {
+    "route": "/impact",
+    "title": "Our Impact",
+    "file": "impact/index.html"
+  },
+  {
+    "route": "/style-guide",
+    "title": "Style Guide",
+    "file": "style-guide/index.html"
+  },
+  {
+    "route": "/404",
+    "title": "Page Not Found",
+    "file": "404/index.html"
+  },
+  {
+    "route": "/project/greenshift",
+    "title": "GreenShift",
+    "file": "project/greenshift/index.html"
+  },
+  {
+    "route": "/project/ecorise",
+    "title": "EcoRise",
+    "file": "project/ecorise/index.html"
+  },
+  {
+    "route": "/project/carboncut",
+    "title": "CarbonCut",
+    "file": "project/carboncut/index.html"
+  },
+  {
+    "route": "/project/solaredge",
+    "title": "SolarEdge",
+    "file": "project/solaredge/index.html"
+  },
+  {
+    "route": "/project/sustainx",
+    "title": "SustainX",
+    "file": "project/sustainx/index.html"
+  },
+  {
+    "route": "/project/cleanpath",
+    "title": "CleanPath",
+    "file": "project/cleanpath/index.html"
+  },
+  {
+    "route": "/service/commercial-residential-solar-installation",
+    "title": "Commercial & Residential Solar Installation",
+    "file": "service/commercial-residential-solar-installation/index.html"
+  },
+  {
+    "route": "/service/carbon-footprint-analysis",
+    "title": "Carbon Footprint Analysis",
+    "file": "service/carbon-footprint-analysis/index.html"
+  },
+  {
+    "route": "/service/sustainable-building-design-consulting",
+    "title": "Sustainable Building Design & Consulting",
+    "file": "service/sustainable-building-design-consulting/index.html"
+  },
+  {
+    "route": "/service/smart-waste-management-reduction-solutions",
+    "title": "Smart Waste Management & Reduction Solutions",
+    "file": "service/smart-waste-management-reduction-solutions/index.html"
+  },
+  {
+    "route": "/privacy-policy",
+    "title": "Privacy Policy",
+    "file": "privacy-policy/index.html"
+  },
+  {
+    "route": "/terms-of-service",
+    "title": "Terms of Service",
+    "file": "terms-of-service/index.html"
+  }
+]

@@ -1,0 +1,3234 @@
+{
+  "Project": [
+    {
+      "card_title": "Manufacturing Giant Achieves 65% Emission Reduction",
+      "date": "2025-12-09T00:00:00.000Z",
+      "category_01": "Emission Reduction",
+      "category_02": "Johnson Manufacturing",
+      "category_03": "Solar + Efficiency",
+      "thumbnail_image": {
+        "src": "https://framerusercontent.com/images/LPUBbw1jdxXbO8WdjKZO6IVM.png",
+        "alt": "Thumbnaiil Image"
+      },
+      "banner_image": {
+        "src": "https://framerusercontent.com/images/SwwSIPgRfYsnatyY29KQCKhxzf4.png",
+        "alt": "Banner Image"
+      },
+      "title": "GreenShift",
+      "serial_no": "_001",
+      "description_01": "GreenShift drives practical sustainability solutions, helping businesses cut emissions, reduce energy costs, and transition to a greener, more efficient future.",
+      "title_02": "Leading the Way to a Greener Future",
+      "description_02": "GreenShift is our flagship sustainability initiative designed to help businesses reduce carbon emissions, optimize energy use, and implement long-term eco-friendly solutions. Each project under GreenShift is customized to meet specific operational needs while delivering measurable environmental and financial benefits.",
+      "number_02": "02",
+      "number_01": "01",
+      "title_03": "Our Sustainability Goals",
+      "title_04": "Results You Can Expect",
+      "number_04": "04",
+      "number_03": "03",
+      "description_03": "We aim to help businesses reduce their operational carbon footprint, lower energy costs through renewable solutions, enhance ESG performance and reporting, and foster sustainable practices across all teams.",
+      "description_04": "With GreenShift, businesses can expect up to 60% reduction in energy costs, significant cuts in carbon emissions, improved ESG compliance and reporting, and long-term operational sustainability with ongoing cost savings.",
+      "content_image_01": {
+        "src": "https://framerusercontent.com/images/cyn677u5g5wvs9K8ywfOm9FHabQ.png",
+        "alt": "Content Image"
+      },
+      "content_image_02": {
+        "src": "https://framerusercontent.com/images/YL3qtjhsV5pL5FCaJT8BdoLCZqc.png",
+        "alt": "Content Image 02"
+      },
+      "content_image_03": "https://framerusercontent.com/images/6Z6fCuk7cWLRNyD7DgUGH99HM.png",
+      "slug": "greenshift"
+    },
+    {
+      "card_title": "Manufacturing Giant Achieves 65% Emission Reduction",
+      "date": "2025-12-09T00:00:00.000Z",
+      "category_01": "Emission Reduction",
+      "category_02": "Johnson Manufacturing",
+      "category_03": "Solar + Efficiency",
+      "thumbnail_image": {
+        "src": "https://framerusercontent.com/images/eq7OZNsRrmr18PZbTvZxdbL1fo.png",
+        "alt": "Thumbnaiil Image"
+      },
+      "banner_image": {
+        "src": "https://framerusercontent.com/images/eq7OZNsRrmr18PZbTvZxdbL1fo.png",
+        "alt": "Banner Image"
+      },
+      "title": "EcoRise",
+      "serial_no": "_002",
+      "description_01": "GreenShift drives practical sustainability solutions, helping businesses cut emissions, reduce energy costs, and transition to a greener, more efficient future.",
+      "title_02": "Leading the Way to a Greener Future",
+      "description_02": "GreenShift is our flagship sustainability initiative designed to help businesses reduce carbon emissions, optimize energy use, and implement long-term eco-friendly solutions. Each project under GreenShift is customized to meet specific operational needs while delivering measurable environmental and financial benefits.",
+      "number_02": "{ 02 }",
+      "number_01": "01 ",
+      "title_03": "Our Sustainability Goals",
+      "title_04": "Results You Can Expect",
+      "number_04": "{ 04 }",
+      "number_03": "{ 03 }",
+      "description_03": "We aim to help businesses reduce their operational carbon footprint, lower energy costs through renewable solutions, enhance ESG performance and reporting, and foster sustainable practices across all teams.",
+      "description_04": "With GreenShift, businesses can expect up to 60% reduction in energy costs, significant cuts in carbon emissions, improved ESG compliance and reporting, and long-term operational sustainability with ongoing cost savings.",
+      "content_image_01": {
+        "src": "https://framerusercontent.com/images/cyn677u5g5wvs9K8ywfOm9FHabQ.png",
+        "alt": "Content Image"
+      },
+      "content_image_02": {
+        "src": "https://framerusercontent.com/images/YL3qtjhsV5pL5FCaJT8BdoLCZqc.png",
+        "alt": "Content Image 02"
+      },
+      "content_image_03": "https://framerusercontent.com/images/6Z6fCuk7cWLRNyD7DgUGH99HM.png",
+      "slug": "ecorise"
+    },
+    {
+      "card_title": "Manufacturing Giant Achieves 65% Emission Reduction",
+      "date": "2025-12-09T00:00:00.000Z",
+      "category_01": "Emission Reduction",
+      "category_02": "Johnson Manufacturing",
+      "category_03": "Solar + Efficiency",
+      "thumbnail_image": {
+        "src": "https://framerusercontent.com/images/I4bISVGZuWC0oM5yjp3ACdv2k.png",
+        "alt": "Thumbnaiil Image"
+      },
+      "banner_image": {
+        "src": "https://framerusercontent.com/images/I4bISVGZuWC0oM5yjp3ACdv2k.png",
+        "alt": "Banner Image"
+      },
+      "title": "CarbonCut",
+      "serial_no": "_003",
+      "description_01": "GreenShift drives practical sustainability solutions, helping businesses cut emissions, reduce energy costs, and transition to a greener, more efficient future.",
+      "title_02": "Leading the Way to a Greener Future",
+      "description_02": "GreenShift is our flagship sustainability initiative designed to help businesses reduce carbon emissions, optimize energy use, and implement long-term eco-friendly solutions. Each project under GreenShift is customized to meet specific operational needs while delivering measurable environmental and financial benefits.",
+      "number_02": "{ 02 }",
+      "number_01": "01 ",
+      "title_03": "Our Sustainability Goals",
+      "title_04": "Results You Can Expect",
+      "number_04": "{ 04 }",
+      "number_03": "{ 03 }",
+      "description_03": "We aim to help businesses reduce their operational carbon footprint, lower energy costs through renewable solutions, enhance ESG performance and reporting, and foster sustainable practices across all teams.",
+      "description_04": "With GreenShift, businesses can expect up to 60% reduction in energy costs, significant cuts in carbon emissions, improved ESG compliance and reporting, and long-term operational sustainability with ongoing cost savings.",
+      "content_image_01": {
+        "src": "https://framerusercontent.com/images/cyn677u5g5wvs9K8ywfOm9FHabQ.png",
+        "alt": "Content Image"
+      },
+      "content_image_02": {
+        "src": "https://framerusercontent.com/images/YL3qtjhsV5pL5FCaJT8BdoLCZqc.png",
+        "alt": "Content Image 02"
+      },
+      "content_image_03": "https://framerusercontent.com/images/6Z6fCuk7cWLRNyD7DgUGH99HM.png",
+      "slug": "carboncut"
+    },
+    {
+      "card_title": "Manufacturing Giant Achieves 65% Emission Reduction",
+      "date": "2025-12-09T00:00:00.000Z",
+      "category_01": "Emission Reduction",
+      "category_02": "Johnson Manufacturing",
+      "category_03": "Solar + Efficiency",
+      "thumbnail_image": {
+        "src": "https://framerusercontent.com/images/D7VPV2xHHx3bzc9yqi6Ns5iUOm4.png",
+        "alt": "Thumbnaiil Image"
+      },
+      "banner_image": {
+        "src": "https://framerusercontent.com/images/D7VPV2xHHx3bzc9yqi6Ns5iUOm4.png",
+        "alt": "Banner Image"
+      },
+      "title": "SolarEdge",
+      "serial_no": "_004",
+      "description_01": "GreenShift drives practical sustainability solutions, helping businesses cut emissions, reduce energy costs, and transition to a greener, more efficient future.",
+      "title_02": "Leading the Way to a Greener Future",
+      "description_02": "GreenShift is our flagship sustainability initiative designed to help businesses reduce carbon emissions, optimize energy use, and implement long-term eco-friendly solutions. Each project under GreenShift is customized to meet specific operational needs while delivering measurable environmental and financial benefits.",
+      "number_02": "{ 02 }",
+      "number_01": "01",
+      "title_03": "Our Sustainability Goals",
+      "title_04": "Results You Can Expect",
+      "number_04": "{ 04 }",
+      "number_03": "{ 03 }",
+      "description_03": "We aim to help businesses reduce their operational carbon footprint, lower energy costs through renewable solutions, enhance ESG performance and reporting, and foster sustainable practices across all teams.",
+      "description_04": "With GreenShift, businesses can expect up to 60% reduction in energy costs, significant cuts in carbon emissions, improved ESG compliance and reporting, and long-term operational sustainability with ongoing cost savings.",
+      "content_image_01": {
+        "src": "https://framerusercontent.com/images/cyn677u5g5wvs9K8ywfOm9FHabQ.png",
+        "alt": "Content Image"
+      },
+      "content_image_02": {
+        "src": "https://framerusercontent.com/images/YL3qtjhsV5pL5FCaJT8BdoLCZqc.png",
+        "alt": "Content Image 02"
+      },
+      "content_image_03": "https://framerusercontent.com/images/6Z6fCuk7cWLRNyD7DgUGH99HM.png",
+      "slug": "solaredge"
+    },
+    {
+      "card_title": "Manufacturing Giant Achieves 65% Emission Reduction",
+      "date": "2025-12-09T00:00:00.000Z",
+      "category_01": "Emission Reduction",
+      "category_02": "Johnson Manufacturing",
+      "category_03": "Solar + Efficiency",
+      "thumbnail_image": {
+        "src": "https://framerusercontent.com/images/wPWQR5YvLMzp5kdIoSEghytQ.png",
+        "alt": "Thumbnaiil Image"
+      },
+      "banner_image": {
+        "src": "https://framerusercontent.com/images/wPWQR5YvLMzp5kdIoSEghytQ.png",
+        "alt": "Banner Image"
+      },
+      "title": "SustainX",
+      "serial_no": "_005",
+      "description_01": "GreenShift drives practical sustainability solutions, helping businesses cut emissions, reduce energy costs, and transition to a greener, more efficient future.",
+      "title_02": "Leading the Way to a Greener Future",
+      "description_02": "GreenShift is our flagship sustainability initiative designed to help businesses reduce carbon emissions, optimize energy use, and implement long-term eco-friendly solutions. Each project under GreenShift is customized to meet specific operational needs while delivering measurable environmental and financial benefits.",
+      "number_02": "02",
+      "number_01": "01",
+      "title_03": "Our Sustainability Goals",
+      "title_04": "Results You Can Expect",
+      "number_04": "04",
+      "number_03": "03",
+      "description_03": "We aim to help businesses reduce their operational carbon footprint, lower energy costs through renewable solutions, enhance ESG performance and reporting, and foster sustainable practices across all teams.",
+      "description_04": "With GreenShift, businesses can expect up to 60% reduction in energy costs, significant cuts in carbon emissions, improved ESG compliance and reporting, and long-term operational sustainability with ongoing cost savings.",
+      "content_image_01": {
+        "src": "https://framerusercontent.com/images/cyn677u5g5wvs9K8ywfOm9FHabQ.png",
+        "alt": "Content Image"
+      },
+      "content_image_02": {
+        "src": "https://framerusercontent.com/images/YL3qtjhsV5pL5FCaJT8BdoLCZqc.png",
+        "alt": "Content Image 02"
+      },
+      "content_image_03": "https://framerusercontent.com/images/6Z6fCuk7cWLRNyD7DgUGH99HM.png",
+      "slug": "sustainx"
+    },
+    {
+      "card_title": "Tech Campus Earns LEED Platinum Certification",
+      "date": "2025-12-09T00:00:00.000Z",
+      "category_01": "Green Building",
+      "category_02": "Johnson Manufacturing",
+      "category_03": "Solar + Efficiency",
+      "thumbnail_image": {
+        "src": "https://framerusercontent.com/images/siFLtZtpkHLIxjn8tfERy6JIieA.png",
+        "alt": "Thumbnaiil Image"
+      },
+      "banner_image": {
+        "src": "https://framerusercontent.com/images/siFLtZtpkHLIxjn8tfERy6JIieA.png",
+        "alt": "Banner Image"
+      },
+      "title": "CleanPath",
+      "serial_no": "_006",
+      "description_01": "GreenShift drives practical sustainability solutions, helping businesses cut emissions, reduce energy costs, and transition to a greener, more efficient future.",
+      "title_02": "Leading the Way to a Greener Future",
+      "description_02": "GreenShift is our flagship sustainability initiative designed to help businesses reduce carbon emissions, optimize energy use, and implement long-term eco-friendly solutions. Each project under GreenShift is customized to meet specific operational needs while delivering measurable environmental and financial benefits.",
+      "number_02": "02",
+      "number_01": "02",
+      "title_03": "Our Sustainability Goals",
+      "title_04": "Results You Can Expect",
+      "number_04": "04",
+      "number_03": "03",
+      "description_03": "We aim to help businesses reduce their operational carbon footprint, lower energy costs through renewable solutions, enhance ESG performance and reporting, and foster sustainable practices across all teams.",
+      "description_04": "With GreenShift, businesses can expect up to 60% reduction in energy costs, significant cuts in carbon emissions, improved ESG compliance and reporting, and long-term operational sustainability with ongoing cost savings.",
+      "content_image_01": {
+        "src": "https://framerusercontent.com/images/cyn677u5g5wvs9K8ywfOm9FHabQ.png",
+        "alt": "Content Image"
+      },
+      "content_image_02": {
+        "src": "https://framerusercontent.com/images/YL3qtjhsV5pL5FCaJT8BdoLCZqc.png",
+        "alt": "Content Image 02"
+      },
+      "content_image_03": "https://framerusercontent.com/images/6Z6fCuk7cWLRNyD7DgUGH99HM.png",
+      "slug": "cleanpath"
+    }
+  ],
+  "Service": [
+    {
+      "card_description": "Upgrade your energy with solar solutions, cutting costs up to 70% and eliminating carbon emissions.",
+      "serial_no": "01",
+      "service_title": "Commercial & Residential Solar Installation",
+      "short_description": "Transform your energy infrastructure with clean, renewable solar power. Our turnkey solar solutions reduce energy costs by 50-70% while eliminating carbon emissions from your operations.",
+      "badge_title": "{ Solar Energy Solutions }",
+      "list_item_01": "Comprehensive site assessment and feasibility analysis",
+      "list_item_02": "Custom system design optimized for your energy needs",
+      "list_item_03": "Grid connection and permit handling",
+      "list_item_04": "Performance monitoring and maintenance\n",
+      "list_item_05": "25-year equipment warranties",
+      "thumbnail_image": {
+        "src": "https://framerusercontent.com/images/nY7AwB4cuLcRE8cIZETeYaGaeXg.png",
+        "alt": "Thumbnail Image"
+      },
+      "banner_image": {
+        "src": "https://framerusercontent.com/images/anFaJg5iFGyrYcVOz8pLdCJA.png",
+        "alt": "Banner Image"
+      },
+      "feature_item_01": "60% reduction in electricity costs",
+      "feature_item_02": "3-5 year ROI",
+      "feature_item_03": "25+ year system lifespan",
+      "feature_item_04": "Increase in property value",
+      "main_content": [
+        {
+          "type": "TextBlock",
+          "id": "v:IoX0Lvjb8/r4wUWWlsZ:0",
+          "attributes": {
+            "tag": "h4"
+          },
+          "children": [
+            {
+              "type": "TextRun",
+              "id": "v:IoX0Lvjb8/r4wUWWlsZ:0:0",
+              "attributes": {
+                "text": "Why Choose Solar?"
+              }
+            }
+          ]
+        },
+        {
+          "type": "TextBlock",
+          "id": "v:IoX0Lvjb8/r4wUWWlsZ:1",
+          "attributes": {
+            "tag": "p"
+          },
+          "children": [
+            {
+              "type": "TextRun",
+              "id": "v:IoX0Lvjb8/r4wUWWlsZ:1:0",
+              "attributes": {
+                "text": "Solar energy helps you save money right away and continues to benefit you over time. Once solar panels are installed, your electricity bills go down immediately, and you rely less on traditional energy sources. At the same time, solar power reduces pollution and supports a cleaner environment. With electricity costs increasing and government incentives lowering installation costs, choosing solar is a smart, affordable, and future-proof decision"
+              }
+            }
+          ]
+        },
+        {
+          "type": "TextBlock",
+          "id": "v:IoX0Lvjb8/r4wUWWlsZ:2",
+          "attributes": {
+            "tag": "h4"
+          },
+          "children": [
+            {
+              "type": "TextRun",
+              "id": "v:IoX0Lvjb8/r4wUWWlsZ:2:0",
+              "attributes": {
+                "text": "What\u2019s Included"
+              }
+            }
+          ]
+        },
+        {
+          "type": "TextBulletList",
+          "id": "v:IoX0Lvjb8/r4wUWWlsZ:3",
+          "attributes": {},
+          "children": [
+            {
+              "type": "TextListItem",
+              "id": "v:IoX0Lvjb8/r4wUWWlsZ:3:0",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "TextBlock",
+                  "id": "v:IoX0Lvjb8/r4wUWWlsZ:3:0:0",
+                  "attributes": {
+                    "tag": "p"
+                  },
+                  "children": [
+                    {
+                      "type": "TextRun",
+                      "id": "v:IoX0Lvjb8/r4wUWWlsZ:3:0:0:0",
+                      "attributes": {
+                        "text": "Site assessment & feasibility analysis"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "TextListItem",
+              "id": "v:IoX0Lvjb8/r4wUWWlsZ:3:1",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "TextBlock",
+                  "id": "v:IoX0Lvjb8/r4wUWWlsZ:3:1:0",
+                  "attributes": {
+                    "tag": "p"
+                  },
+                  "children": [
+                    {
+                      "type": "TextRun",
+                      "id": "v:IoX0Lvjb8/r4wUWWlsZ:3:1:0:0",
+                      "attributes": {
+                        "text": "Custom solar system design"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "TextListItem",
+              "id": "v:IoX0Lvjb8/r4wUWWlsZ:3:2",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "TextBlock",
+                  "id": "v:IoX0Lvjb8/r4wUWWlsZ:3:2:0",
+                  "attributes": {
+                    "tag": "p"
+                  },
+                  "children": [
+                    {
+                      "type": "TextRun",
+                      "id": "v:IoX0Lvjb8/r4wUWWlsZ:3:2:0:0",
+                      "attributes": {
+                        "text": "End-to-end installation by certified professionals"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "TextListItem",
+              "id": "v:IoX0Lvjb8/r4wUWWlsZ:3:3",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "TextBlock",
+                  "id": "v:IoX0Lvjb8/r4wUWWlsZ:3:3:0",
+                  "attributes": {
+                    "tag": "p"
+                  },
+                  "children": [
+                    {
+                      "type": "TextRun",
+                      "id": "v:IoX0Lvjb8/r4wUWWlsZ:3:3:0:0",
+                      "attributes": {
+                        "text": "Permits, approvals & grid connection"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "TextListItem",
+              "id": "v:IoX0Lvjb8/r4wUWWlsZ:3:4",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "TextBlock",
+                  "id": "v:IoX0Lvjb8/r4wUWWlsZ:3:4:0",
+                  "attributes": {
+                    "tag": "p"
+                  },
+                  "children": [
+                    {
+                      "type": "TextRun",
+                      "id": "v:IoX0Lvjb8/r4wUWWlsZ:3:4:0:0",
+                      "attributes": {
+                        "text": "System performance monitoring"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "TextListItem",
+              "id": "v:IoX0Lvjb8/r4wUWWlsZ:3:5",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "TextBlock",
+                  "id": "v:IoX0Lvjb8/r4wUWWlsZ:3:5:0",
+                  "attributes": {
+                    "tag": "p"
+                  },
+                  "children": [
+                    {
+                      "type": "TextRun",
+                      "id": "v:IoX0Lvjb8/r4wUWWlsZ:3:5:0:0",
+                      "attributes": {
+                        "text": "Ongoing maintenance support"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "TextListItem",
+              "id": "v:IoX0Lvjb8/r4wUWWlsZ:3:6",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "TextBlock",
+                  "id": "v:IoX0Lvjb8/r4wUWWlsZ:3:6:0",
+                  "attributes": {
+                    "tag": "p"
+                  },
+                  "children": [
+                    {
+                      "type": "TextRun",
+                      "id": "v:IoX0Lvjb8/r4wUWWlsZ:3:6:0:0",
+                      "attributes": {
+                        "text": "25-year equipment warranties"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "TextListItem",
+              "id": "v:IoX0Lvjb8/r4wUWWlsZ:3:7",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "TextBlock",
+                  "id": "v:IoX0Lvjb8/r4wUWWlsZ:3:7:0",
+                  "attributes": {
+                    "tag": "p"
+                  },
+                  "children": [
+                    {
+                      "type": "TextRun",
+                      "id": "v:IoX0Lvjb8/r4wUWWlsZ:3:7:0:0",
+                      "attributes": {
+                        "text": "Guidance on federal & state incentives"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "TextBlock",
+          "id": "v:IoX0Lvjb8/r4wUWWlsZ:4",
+          "attributes": {
+            "tag": "h4"
+          },
+          "children": [
+            {
+              "type": "TextRun",
+              "id": "v:IoX0Lvjb8/r4wUWWlsZ:4:0",
+              "attributes": {
+                "text": "Solar Solutions for Homes & Businesses"
+              }
+            }
+          ]
+        },
+        {
+          "type": "TextBlock",
+          "id": "v:IoX0Lvjb8/r4wUWWlsZ:5",
+          "attributes": {
+            "tag": "p"
+          },
+          "children": [
+            {
+              "type": "TextRun",
+              "id": "v:IoX0Lvjb8/r4wUWWlsZ:5:0",
+              "attributes": {
+                "text": "Switch to reliable, renewable solar energy and take control of your power needs. Modernize your energy system with efficient, future-ready solar solutions designed for both homes and businesses. Our end-to-end services help you reduce electricity costs by up to 70% while lowering your carbon footprint, creating a cleaner and more sustainable future"
+              }
+            }
+          ]
+        },
+        {
+          "type": "TextBlock",
+          "id": "v:IoX0Lvjb8/r4wUWWlsZ:6",
+          "attributes": {
+            "tag": "h4"
+          },
+          "children": [
+            {
+              "type": "TextRun",
+              "id": "v:IoX0Lvjb8/r4wUWWlsZ:6:0",
+              "attributes": {
+                "text": "Average Results You Can Expect"
+              }
+            }
+          ]
+        },
+        {
+          "type": "TextBulletList",
+          "id": "v:IoX0Lvjb8/r4wUWWlsZ:7",
+          "attributes": {},
+          "children": [
+            {
+              "type": "TextListItem",
+              "id": "v:IoX0Lvjb8/r4wUWWlsZ:7:0",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "TextBlock",
+                  "id": "v:IoX0Lvjb8/r4wUWWlsZ:7:0:0",
+                  "attributes": {
+                    "tag": "p"
+                  },
+                  "children": [
+                    {
+                      "type": "TextRun",
+                      "id": "v:IoX0Lvjb8/r4wUWWlsZ:7:0:0:0",
+                      "attributes": {
+                        "text": "Up to 60% reduction in electricity bills"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "TextListItem",
+              "id": "v:IoX0Lvjb8/r4wUWWlsZ:7:1",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "TextBlock",
+                  "id": "v:IoX0Lvjb8/r4wUWWlsZ:7:1:0",
+                  "attributes": {
+                    "tag": "p"
+                  },
+                  "children": [
+                    {
+                      "type": "TextRun",
+                      "id": "v:IoX0Lvjb8/r4wUWWlsZ:7:1:0:0",
+                      "attributes": {
+                        "text": "3\u20135 year return on investment"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "TextListItem",
+              "id": "v:IoX0Lvjb8/r4wUWWlsZ:7:2",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "TextBlock",
+                  "id": "v:IoX0Lvjb8/r4wUWWlsZ:7:2:0",
+                  "attributes": {
+                    "tag": "p"
+                  },
+                  "children": [
+                    {
+                      "type": "TextRun",
+                      "id": "v:IoX0Lvjb8/r4wUWWlsZ:7:2:0:0",
+                      "attributes": {
+                        "text": "25+ years system lifespan"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "TextListItem",
+              "id": "v:IoX0Lvjb8/r4wUWWlsZ:7:3",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "TextBlock",
+                  "id": "v:IoX0Lvjb8/r4wUWWlsZ:7:3:0",
+                  "attributes": {
+                    "tag": "p"
+                  },
+                  "children": [
+                    {
+                      "type": "TextRun",
+                      "id": "v:IoX0Lvjb8/r4wUWWlsZ:7:3:0:0",
+                      "attributes": {
+                        "text": "Increased property value"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "TextBlock",
+          "id": "v:IoX0Lvjb8/r4wUWWlsZ:8",
+          "attributes": {
+            "tag": "h4"
+          },
+          "children": [
+            {
+              "type": "TextRun",
+              "id": "v:IoX0Lvjb8/r4wUWWlsZ:8:0",
+              "attributes": {
+                "text": "Industries We Serve"
+              }
+            }
+          ]
+        },
+        {
+          "type": "TextBulletList",
+          "id": "v:IoX0Lvjb8/r4wUWWlsZ:9",
+          "attributes": {},
+          "children": [
+            {
+              "type": "TextListItem",
+              "id": "v:IoX0Lvjb8/r4wUWWlsZ:9:0",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "TextBlock",
+                  "id": "v:IoX0Lvjb8/r4wUWWlsZ:9:0:0",
+                  "attributes": {
+                    "tag": "p"
+                  },
+                  "children": [
+                    {
+                      "type": "TextRun",
+                      "id": "v:IoX0Lvjb8/r4wUWWlsZ:9:0:0:0",
+                      "attributes": {
+                        "text": "Manufacturing"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "TextListItem",
+              "id": "v:IoX0Lvjb8/r4wUWWlsZ:9:1",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "TextBlock",
+                  "id": "v:IoX0Lvjb8/r4wUWWlsZ:9:1:0",
+                  "attributes": {
+                    "tag": "p"
+                  },
+                  "children": [
+                    {
+                      "type": "TextRun",
+                      "id": "v:IoX0Lvjb8/r4wUWWlsZ:9:1:0:0",
+                      "attributes": {
+                        "text": "Retail"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "TextListItem",
+              "id": "v:IoX0Lvjb8/r4wUWWlsZ:9:2",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "TextBlock",
+                  "id": "v:IoX0Lvjb8/r4wUWWlsZ:9:2:0",
+                  "attributes": {
+                    "tag": "p"
+                  },
+                  "children": [
+                    {
+                      "type": "TextRun",
+                      "id": "v:IoX0Lvjb8/r4wUWWlsZ:9:2:0:0",
+                      "attributes": {
+                        "text": "Healthcare"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "TextListItem",
+              "id": "v:IoX0Lvjb8/r4wUWWlsZ:9:3",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "TextBlock",
+                  "id": "v:IoX0Lvjb8/r4wUWWlsZ:9:3:0",
+                  "attributes": {
+                    "tag": "p"
+                  },
+                  "children": [
+                    {
+                      "type": "TextRun",
+                      "id": "v:IoX0Lvjb8/r4wUWWlsZ:9:3:0:0",
+                      "attributes": {
+                        "text": "Education"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "TextListItem",
+              "id": "v:IoX0Lvjb8/r4wUWWlsZ:9:4",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "TextBlock",
+                  "id": "v:IoX0Lvjb8/r4wUWWlsZ:9:4:0",
+                  "attributes": {
+                    "tag": "p"
+                  },
+                  "children": [
+                    {
+                      "type": "TextRun",
+                      "id": "v:IoX0Lvjb8/r4wUWWlsZ:9:4:0:0",
+                      "attributes": {
+                        "text": "Commercial Real Estate"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "TextListItem",
+              "id": "v:IoX0Lvjb8/r4wUWWlsZ:9:5",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "TextBlock",
+                  "id": "v:IoX0Lvjb8/r4wUWWlsZ:9:5:0",
+                  "attributes": {
+                    "tag": "p"
+                  },
+                  "children": [
+                    {
+                      "type": "TextRun",
+                      "id": "v:IoX0Lvjb8/r4wUWWlsZ:9:5:0:0",
+                      "attributes": {
+                        "text": "Agriculture"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "TextListItem",
+              "id": "v:IoX0Lvjb8/r4wUWWlsZ:9:6",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "TextBlock",
+                  "id": "v:IoX0Lvjb8/r4wUWWlsZ:9:6:0",
+                  "attributes": {
+                    "tag": "p"
+                  },
+                  "children": [
+                    {
+                      "type": "TextRun",
+                      "id": "v:IoX0Lvjb8/r4wUWWlsZ:9:6:0:0",
+                      "attributes": {
+                        "text": "Hospitality"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "TextBlock",
+          "id": "v:IoX0Lvjb8/r4wUWWlsZ:10",
+          "attributes": {
+            "tag": "h4"
+          },
+          "children": [
+            {
+              "type": "TextRun",
+              "id": "v:IoX0Lvjb8/r4wUWWlsZ:10:0",
+              "attributes": {
+                "text": "Ready to Go Solar?"
+              }
+            }
+          ]
+        },
+        {
+          "type": "TextBlock",
+          "id": "v:IoX0Lvjb8/r4wUWWlsZ:11",
+          "attributes": {
+            "tag": "p"
+          },
+          "children": [
+            {
+              "type": "TextRun",
+              "id": "v:IoX0Lvjb8/r4wUWWlsZ:11:0",
+              "attributes": {
+                "text": "Talk to our experts and discover how solar can transform your energy costs and sustainability goals."
+              }
+            }
+          ]
+        }
+      ],
+      "slug": "commercial-residential-solar-installation",
+      "card_title": "Solar Energy Solutions"
+    },
+    {
+      "card_description": "Gain clear insights into your emissions with audits that reveal reduction opportunities and actionable net-zero roadmaps.",
+      "serial_no": "02",
+      "slug": "carbon-footprint-analysis",
+      "main_content": [
+        {
+          "type": "TextBlock",
+          "id": "v:yfklU3VMC/r4wUWWlsZ:0",
+          "attributes": {
+            "tag": "p"
+          },
+          "children": [
+            {
+              "type": "TextRun",
+              "id": "v:yfklU3VMC/r4wUWWlsZ:0:0",
+              "attributes": {
+                "text": "Understanding your carbon footprint is the first step toward building a more sustainable business. Our comprehensive analysis identifies where emissions are generated, helping you reduce energy waste, lower operating costs, meet ESG goals, and comply with environmental regulations. With clear insights and practical recommendations, you can make smarter decisions that benefit both your business and the planet."
+              }
+            }
+          ]
+        },
+        {
+          "type": "TextBlock",
+          "id": "v:yfklU3VMC/r4wUWWlsZ:1",
+          "attributes": {
+            "tag": "h4"
+          },
+          "children": [
+            {
+              "type": "TextRun",
+              "id": "v:yfklU3VMC/r4wUWWlsZ:1:0",
+              "attributes": {
+                "text": "What's Included"
+              }
+            }
+          ]
+        },
+        {
+          "type": "TextBulletList",
+          "id": "v:yfklU3VMC/r4wUWWlsZ:2",
+          "attributes": {},
+          "children": [
+            {
+              "type": "TextListItem",
+              "id": "v:yfklU3VMC/r4wUWWlsZ:2:0",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "TextBlock",
+                  "id": "v:yfklU3VMC/r4wUWWlsZ:2:0:0",
+                  "attributes": {
+                    "tag": "p"
+                  },
+                  "children": [
+                    {
+                      "type": "TextRun",
+                      "id": "v:yfklU3VMC/r4wUWWlsZ:2:0:0:0",
+                      "attributes": {
+                        "text": "Comprehensive carbon emissions assessment"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "TextListItem",
+              "id": "v:yfklU3VMC/r4wUWWlsZ:2:1",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "TextBlock",
+                  "id": "v:yfklU3VMC/r4wUWWlsZ:2:1:0",
+                  "attributes": {
+                    "tag": "p"
+                  },
+                  "children": [
+                    {
+                      "type": "TextRun",
+                      "id": "v:yfklU3VMC/r4wUWWlsZ:2:1:0:0",
+                      "attributes": {
+                        "text": "Scope 1, 2 & 3 emissions analysis"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "TextListItem",
+              "id": "v:yfklU3VMC/r4wUWWlsZ:2:2",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "TextBlock",
+                  "id": "v:yfklU3VMC/r4wUWWlsZ:2:2:0",
+                  "attributes": {
+                    "tag": "p"
+                  },
+                  "children": [
+                    {
+                      "type": "TextRun",
+                      "id": "v:yfklU3VMC/r4wUWWlsZ:2:2:0:0",
+                      "attributes": {
+                        "text": "Energy consumption and efficiency review"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "TextListItem",
+              "id": "v:yfklU3VMC/r4wUWWlsZ:2:3",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "TextBlock",
+                  "id": "v:yfklU3VMC/r4wUWWlsZ:2:3:0",
+                  "attributes": {
+                    "tag": "p"
+                  },
+                  "children": [
+                    {
+                      "type": "TextRun",
+                      "id": "v:yfklU3VMC/r4wUWWlsZ:2:3:0:0",
+                      "attributes": {
+                        "text": "Carbon reduction strategy & action plan"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "TextListItem",
+              "id": "v:yfklU3VMC/r4wUWWlsZ:2:4",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "TextBlock",
+                  "id": "v:yfklU3VMC/r4wUWWlsZ:2:4:0",
+                  "attributes": {
+                    "tag": "p"
+                  },
+                  "children": [
+                    {
+                      "type": "TextRun",
+                      "id": "v:yfklU3VMC/r4wUWWlsZ:2:4:0:0",
+                      "attributes": {
+                        "text": "ESG and sustainability reporting support"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "TextListItem",
+              "id": "v:yfklU3VMC/r4wUWWlsZ:2:5",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "TextBlock",
+                  "id": "v:yfklU3VMC/r4wUWWlsZ:2:5:0",
+                  "attributes": {
+                    "tag": "p"
+                  },
+                  "children": [
+                    {
+                      "type": "TextRun",
+                      "id": "v:yfklU3VMC/r4wUWWlsZ:2:5:0:0",
+                      "attributes": {
+                        "text": "Regulatory compliance guidance"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "TextListItem",
+              "id": "v:yfklU3VMC/r4wUWWlsZ:2:6",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "TextBlock",
+                  "id": "v:yfklU3VMC/r4wUWWlsZ:2:6:0",
+                  "attributes": {
+                    "tag": "p"
+                  },
+                  "children": [
+                    {
+                      "type": "TextRun",
+                      "id": "v:yfklU3VMC/r4wUWWlsZ:2:6:0:0",
+                      "attributes": {
+                        "text": "Performance tracking & emissions monitoring"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "TextListItem",
+              "id": "v:yfklU3VMC/r4wUWWlsZ:2:7",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "TextBlock",
+                  "id": "v:yfklU3VMC/r4wUWWlsZ:2:7:0",
+                  "attributes": {
+                    "tag": "p"
+                  },
+                  "children": [
+                    {
+                      "type": "TextRun",
+                      "id": "v:yfklU3VMC/r4wUWWlsZ:2:7:0:0",
+                      "attributes": {
+                        "text": "Ongoing sustainability consulting"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "TextBlock",
+          "id": "v:yfklU3VMC/r4wUWWlsZ:3",
+          "attributes": {
+            "tag": "h4"
+          },
+          "children": [
+            {
+              "type": "TextRun",
+              "id": "v:yfklU3VMC/r4wUWWlsZ:3:0",
+              "attributes": {
+                "text": "Carbon Footprint Analysis for Every Business"
+              }
+            }
+          ]
+        },
+        {
+          "type": "TextBlock",
+          "id": "v:yfklU3VMC/r4wUWWlsZ:4",
+          "attributes": {
+            "tag": "p"
+          },
+          "children": [
+            {
+              "type": "TextRun",
+              "id": "v:yfklU3VMC/r4wUWWlsZ:4:0",
+              "attributes": {
+                "text": "Measure, understand, and reduce your environmental impact with our data-driven carbon footprint analysis. We help businesses identify emission sources, improve energy efficiency, and develop practical strategies to reduce carbon emissions while supporting long-term sustainability and regulatory compliance."
+              }
+            }
+          ]
+        },
+        {
+          "type": "TextBlock",
+          "id": "v:yfklU3VMC/r4wUWWlsZ:5",
+          "attributes": {
+            "tag": "h4"
+          },
+          "children": [
+            {
+              "type": "TextRun",
+              "id": "v:yfklU3VMC/r4wUWWlsZ:5:0",
+              "attributes": {
+                "text": "Average Results You Can Expect"
+              }
+            }
+          ]
+        },
+        {
+          "type": "TextBulletList",
+          "id": "v:yfklU3VMC/r4wUWWlsZ:6",
+          "attributes": {},
+          "children": [
+            {
+              "type": "TextListItem",
+              "id": "v:yfklU3VMC/r4wUWWlsZ:6:0",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "TextBlock",
+                  "id": "v:yfklU3VMC/r4wUWWlsZ:6:0:0",
+                  "attributes": {
+                    "tag": "p"
+                  },
+                  "children": [
+                    {
+                      "type": "TextRun",
+                      "id": "v:yfklU3VMC/r4wUWWlsZ:6:0:0:0",
+                      "attributes": {
+                        "text": "Identify major emission sources"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "TextListItem",
+              "id": "v:yfklU3VMC/r4wUWWlsZ:6:1",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "TextBlock",
+                  "id": "v:yfklU3VMC/r4wUWWlsZ:6:1:0",
+                  "attributes": {
+                    "tag": "p"
+                  },
+                  "children": [
+                    {
+                      "type": "TextRun",
+                      "id": "v:yfklU3VMC/r4wUWWlsZ:6:1:0:0",
+                      "attributes": {
+                        "text": "Lower operational energy costs"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "TextListItem",
+              "id": "v:yfklU3VMC/r4wUWWlsZ:6:2",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "TextBlock",
+                  "id": "v:yfklU3VMC/r4wUWWlsZ:6:2:0",
+                  "attributes": {
+                    "tag": "p"
+                  },
+                  "children": [
+                    {
+                      "type": "TextRun",
+                      "id": "v:yfklU3VMC/r4wUWWlsZ:6:2:0:0",
+                      "attributes": {
+                        "text": "Improve ESG and sustainability performance"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "TextListItem",
+              "id": "v:yfklU3VMC/r4wUWWlsZ:6:3",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "TextBlock",
+                  "id": "v:yfklU3VMC/r4wUWWlsZ:6:3:0",
+                  "attributes": {
+                    "tag": "p"
+                  },
+                  "children": [
+                    {
+                      "type": "TextRun",
+                      "id": "v:yfklU3VMC/r4wUWWlsZ:6:3:0:0",
+                      "attributes": {
+                        "text": "Support net-zero and carbon reduction goals"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "TextBlock",
+          "id": "v:yfklU3VMC/r4wUWWlsZ:7",
+          "attributes": {
+            "tag": "h4"
+          },
+          "children": [
+            {
+              "type": "TextRun",
+              "id": "v:yfklU3VMC/r4wUWWlsZ:7:0",
+              "attributes": {
+                "text": "Industries We Serve"
+              }
+            }
+          ]
+        },
+        {
+          "type": "TextBulletList",
+          "id": "v:yfklU3VMC/r4wUWWlsZ:8",
+          "attributes": {},
+          "children": [
+            {
+              "type": "TextListItem",
+              "id": "v:yfklU3VMC/r4wUWWlsZ:8:0",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "TextBlock",
+                  "id": "v:yfklU3VMC/r4wUWWlsZ:8:0:0",
+                  "attributes": {
+                    "tag": "p"
+                  },
+                  "children": [
+                    {
+                      "type": "TextRun",
+                      "id": "v:yfklU3VMC/r4wUWWlsZ:8:0:0:0",
+                      "attributes": {
+                        "text": "Manufacturing"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "TextListItem",
+              "id": "v:yfklU3VMC/r4wUWWlsZ:8:1",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "TextBlock",
+                  "id": "v:yfklU3VMC/r4wUWWlsZ:8:1:0",
+                  "attributes": {
+                    "tag": "p"
+                  },
+                  "children": [
+                    {
+                      "type": "TextRun",
+                      "id": "v:yfklU3VMC/r4wUWWlsZ:8:1:0:0",
+                      "attributes": {
+                        "text": "Retail"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "TextListItem",
+              "id": "v:yfklU3VMC/r4wUWWlsZ:8:2",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "TextBlock",
+                  "id": "v:yfklU3VMC/r4wUWWlsZ:8:2:0",
+                  "attributes": {
+                    "tag": "p"
+                  },
+                  "children": [
+                    {
+                      "type": "TextRun",
+                      "id": "v:yfklU3VMC/r4wUWWlsZ:8:2:0:0",
+                      "attributes": {
+                        "text": "Healthcare"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "TextListItem",
+              "id": "v:yfklU3VMC/r4wUWWlsZ:8:3",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "TextBlock",
+                  "id": "v:yfklU3VMC/r4wUWWlsZ:8:3:0",
+                  "attributes": {
+                    "tag": "p"
+                  },
+                  "children": [
+                    {
+                      "type": "TextRun",
+                      "id": "v:yfklU3VMC/r4wUWWlsZ:8:3:0:0",
+                      "attributes": {
+                        "text": "Education"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "TextListItem",
+              "id": "v:yfklU3VMC/r4wUWWlsZ:8:4",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "TextBlock",
+                  "id": "v:yfklU3VMC/r4wUWWlsZ:8:4:0",
+                  "attributes": {
+                    "tag": "p"
+                  },
+                  "children": [
+                    {
+                      "type": "TextRun",
+                      "id": "v:yfklU3VMC/r4wUWWlsZ:8:4:0:0",
+                      "attributes": {
+                        "text": "Commercial Real Estate"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "TextListItem",
+              "id": "v:yfklU3VMC/r4wUWWlsZ:8:5",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "TextBlock",
+                  "id": "v:yfklU3VMC/r4wUWWlsZ:8:5:0",
+                  "attributes": {
+                    "tag": "p"
+                  },
+                  "children": [
+                    {
+                      "type": "TextRun",
+                      "id": "v:yfklU3VMC/r4wUWWlsZ:8:5:0:0",
+                      "attributes": {
+                        "text": "Agriculture"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "TextListItem",
+              "id": "v:yfklU3VMC/r4wUWWlsZ:8:6",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "TextBlock",
+                  "id": "v:yfklU3VMC/r4wUWWlsZ:8:6:0",
+                  "attributes": {
+                    "tag": "p"
+                  },
+                  "children": [
+                    {
+                      "type": "TextRun",
+                      "id": "v:yfklU3VMC/r4wUWWlsZ:8:6:0:0",
+                      "attributes": {
+                        "text": "Hospitality"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "TextBlock",
+          "id": "v:yfklU3VMC/r4wUWWlsZ:9",
+          "attributes": {
+            "tag": "h4"
+          },
+          "children": [
+            {
+              "type": "TextRun",
+              "id": "v:yfklU3VMC/r4wUWWlsZ:9:0",
+              "attributes": {
+                "text": "Ready to Reduce Your Carbon Footprint?"
+              }
+            }
+          ]
+        },
+        {
+          "type": "TextBlock",
+          "id": "v:yfklU3VMC/r4wUWWlsZ:10",
+          "attributes": {
+            "tag": "p"
+          },
+          "children": [
+            {
+              "type": "TextRun",
+              "id": "v:yfklU3VMC/r4wUWWlsZ:10:0",
+              "attributes": {
+                "text": "Connect with our sustainability experts and discover how carbon footprint analysis can help your business reduce emissions, improve efficiency, and achieve long-term environmental goals."
+              }
+            }
+          ]
+        }
+      ],
+      "feature_item_04": "Support net-zero goals",
+      "feature_item_03": "Improve operational efficiency",
+      "feature_item_02": "Reduce environmental impact",
+      "feature_item_01": "Identify major emission sources",
+      "banner_image": {
+        "src": "https://framerusercontent.com/images/JVkSnMEDYnjZjSWeNyiMQojIc.png",
+        "alt": "Banner Image"
+      },
+      "thumbnail_image": {
+        "src": "https://framerusercontent.com/images/JVkSnMEDYnjZjSWeNyiMQojIc.png",
+        "alt": "Thumbnail Image"
+      },
+      "list_item_05": "Ongoing monitoring and performance optimization",
+      "list_item_04": "Compliance with sustainability standards and regulations",
+      "list_item_03": "Actionable strategies to reduce emissions",
+      "list_item_02": "Detailed carbon footprint reporting and insights",
+      "list_item_01": "Comprehensive emissions assessment across operations",
+      "badge_title": "{ Sustainability Insights }",
+      "short_description": "Measure, monitor, and reduce your carbon emissions with data-driven insights. Our carbon footprint analysis helps businesses identify emission sources, improve operational efficiency, and achieve sustainability goals while meeting environmental compliance standards.",
+      "service_title": "Carbon Footprint Analysis",
+      "card_title": "Carbon Footprint Analysis"
+    },
+    {
+      "card_description": "Achieve LEED certification with expert guidance on energy-efficient design, green materials, and sustainable construction.",
+      "serial_no": "03",
+      "slug": "sustainable-building-design-consulting",
+      "main_content": [
+        {
+          "type": "TextBlock",
+          "id": "v:O3O44PZ84/r4wUWWlsZ:0",
+          "attributes": {
+            "tag": "p"
+          },
+          "children": [
+            {
+              "type": "TextRun",
+              "id": "v:O3O44PZ84/r4wUWWlsZ:0:0",
+              "attributes": {
+                "text": "Create healthier, more efficient, and environmentally responsible buildings with expert green building consulting. We help optimize energy performance, reduce operating costs, improve indoor environmental quality, and achieve recognized sustainability certifications, ensuring long-term value for your property."
+              }
+            }
+          ]
+        },
+        {
+          "type": "TextBlock",
+          "id": "v:O3O44PZ84/r4wUWWlsZ:1",
+          "attributes": {
+            "tag": "h4"
+          },
+          "children": [
+            {
+              "type": "TextRun",
+              "id": "v:O3O44PZ84/r4wUWWlsZ:1:0",
+              "attributes": {
+                "text": "What's Included"
+              }
+            }
+          ]
+        },
+        {
+          "type": "TextBulletList",
+          "id": "v:O3O44PZ84/r4wUWWlsZ:2",
+          "attributes": {},
+          "children": [
+            {
+              "type": "TextListItem",
+              "id": "v:O3O44PZ84/r4wUWWlsZ:2:0",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "TextBlock",
+                  "id": "v:O3O44PZ84/r4wUWWlsZ:2:0:0",
+                  "attributes": {
+                    "tag": "p"
+                  },
+                  "children": [
+                    {
+                      "type": "TextRun",
+                      "id": "v:O3O44PZ84/r4wUWWlsZ:2:0:0:0",
+                      "attributes": {
+                        "text": "Green building feasibility assessment"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "TextListItem",
+              "id": "v:O3O44PZ84/r4wUWWlsZ:2:1",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "TextBlock",
+                  "id": "v:O3O44PZ84/r4wUWWlsZ:2:1:0",
+                  "attributes": {
+                    "tag": "p"
+                  },
+                  "children": [
+                    {
+                      "type": "TextRun",
+                      "id": "v:O3O44PZ84/r4wUWWlsZ:2:1:0:0",
+                      "attributes": {
+                        "text": "Sustainable design strategy"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "TextListItem",
+              "id": "v:O3O44PZ84/r4wUWWlsZ:2:2",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "TextBlock",
+                  "id": "v:O3O44PZ84/r4wUWWlsZ:2:2:0",
+                  "attributes": {
+                    "tag": "p"
+                  },
+                  "children": [
+                    {
+                      "type": "TextRun",
+                      "id": "v:O3O44PZ84/r4wUWWlsZ:2:2:0:0",
+                      "attributes": {
+                        "text": "Energy efficiency optimization"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "TextListItem",
+              "id": "v:O3O44PZ84/r4wUWWlsZ:2:3",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "TextBlock",
+                  "id": "v:O3O44PZ84/r4wUWWlsZ:2:3:0",
+                  "attributes": {
+                    "tag": "p"
+                  },
+                  "children": [
+                    {
+                      "type": "TextRun",
+                      "id": "v:O3O44PZ84/r4wUWWlsZ:2:3:0:0",
+                      "attributes": {
+                        "text": "LEED, BREEAM & WELL certification support"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "TextListItem",
+              "id": "v:O3O44PZ84/r4wUWWlsZ:2:4",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "TextBlock",
+                  "id": "v:O3O44PZ84/r4wUWWlsZ:2:4:0",
+                  "attributes": {
+                    "tag": "p"
+                  },
+                  "children": [
+                    {
+                      "type": "TextRun",
+                      "id": "v:O3O44PZ84/r4wUWWlsZ:2:4:0:0",
+                      "attributes": {
+                        "text": "Water conservation planning"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "TextListItem",
+              "id": "v:O3O44PZ84/r4wUWWlsZ:2:5",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "TextBlock",
+                  "id": "v:O3O44PZ84/r4wUWWlsZ:2:5:0",
+                  "attributes": {
+                    "tag": "p"
+                  },
+                  "children": [
+                    {
+                      "type": "TextRun",
+                      "id": "v:O3O44PZ84/r4wUWWlsZ:2:5:0:0",
+                      "attributes": {
+                        "text": "Sustainable material recommendations"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "TextListItem",
+              "id": "v:O3O44PZ84/r4wUWWlsZ:2:6",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "TextBlock",
+                  "id": "v:O3O44PZ84/r4wUWWlsZ:2:6:0",
+                  "attributes": {
+                    "tag": "p"
+                  },
+                  "children": [
+                    {
+                      "type": "TextRun",
+                      "id": "v:O3O44PZ84/r4wUWWlsZ:2:6:0:0",
+                      "attributes": {
+                        "text": "Indoor environmental quality analysis"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "TextListItem",
+              "id": "v:O3O44PZ84/r4wUWWlsZ:2:7",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "TextBlock",
+                  "id": "v:O3O44PZ84/r4wUWWlsZ:2:7:0",
+                  "attributes": {
+                    "tag": "p"
+                  },
+                  "children": [
+                    {
+                      "type": "TextRun",
+                      "id": "v:O3O44PZ84/r4wUWWlsZ:2:7:0:0",
+                      "attributes": {
+                        "text": "Ongoing sustainability consulting"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "TextBlock",
+          "id": "v:O3O44PZ84/r4wUWWlsZ:3",
+          "attributes": {
+            "tag": "h4"
+          },
+          "children": [
+            {
+              "type": "TextRun",
+              "id": "v:O3O44PZ84/r4wUWWlsZ:3:0",
+              "attributes": {
+                "text": "Green Building Solutions for Modern Developments"
+              }
+            }
+          ]
+        },
+        {
+          "type": "TextBlock",
+          "id": "v:O3O44PZ84/r4wUWWlsZ:4",
+          "attributes": {
+            "tag": "p"
+          },
+          "children": [
+            {
+              "type": "TextRun",
+              "id": "v:O3O44PZ84/r4wUWWlsZ:4:0",
+              "attributes": {
+                "text": "Design and develop high-performance buildings that prioritize sustainability, efficiency, and occupant well-being. Our consulting services help residential, commercial, and industrial projects reduce environmental impact while improving operational performance and long-term value."
+              }
+            }
+          ]
+        },
+        {
+          "type": "TextBlock",
+          "id": "v:O3O44PZ84/r4wUWWlsZ:5",
+          "attributes": {
+            "tag": "h4"
+          },
+          "children": [
+            {
+              "type": "TextRun",
+              "id": "v:O3O44PZ84/r4wUWWlsZ:5:0",
+              "attributes": {
+                "text": "Average Results You Can Expect"
+              }
+            }
+          ]
+        },
+        {
+          "type": "TextBulletList",
+          "id": "v:O3O44PZ84/r4wUWWlsZ:6",
+          "attributes": {},
+          "children": [
+            {
+              "type": "TextListItem",
+              "id": "v:O3O44PZ84/r4wUWWlsZ:6:0",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "TextBlock",
+                  "id": "v:O3O44PZ84/r4wUWWlsZ:6:0:0",
+                  "attributes": {
+                    "tag": "p"
+                  },
+                  "children": [
+                    {
+                      "type": "TextRun",
+                      "id": "v:O3O44PZ84/r4wUWWlsZ:6:0:0:0",
+                      "attributes": {
+                        "text": "Lower energy and operating costs"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "TextListItem",
+              "id": "v:O3O44PZ84/r4wUWWlsZ:6:1",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "TextBlock",
+                  "id": "v:O3O44PZ84/r4wUWWlsZ:6:1:0",
+                  "attributes": {
+                    "tag": "p"
+                  },
+                  "children": [
+                    {
+                      "type": "TextRun",
+                      "id": "v:O3O44PZ84/r4wUWWlsZ:6:1:0:0",
+                      "attributes": {
+                        "text": "Improved indoor air quality"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "TextListItem",
+              "id": "v:O3O44PZ84/r4wUWWlsZ:6:2",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "TextBlock",
+                  "id": "v:O3O44PZ84/r4wUWWlsZ:6:2:0",
+                  "attributes": {
+                    "tag": "p"
+                  },
+                  "children": [
+                    {
+                      "type": "TextRun",
+                      "id": "v:O3O44PZ84/r4wUWWlsZ:6:2:0:0",
+                      "attributes": {
+                        "text": "Higher building efficiency and performance"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "TextListItem",
+              "id": "v:O3O44PZ84/r4wUWWlsZ:6:3",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "TextBlock",
+                  "id": "v:O3O44PZ84/r4wUWWlsZ:6:3:0",
+                  "attributes": {
+                    "tag": "p"
+                  },
+                  "children": [
+                    {
+                      "type": "TextRun",
+                      "id": "v:O3O44PZ84/r4wUWWlsZ:6:3:0:0",
+                      "attributes": {
+                        "text": "Increased property value and sustainability ratings"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "TextBlock",
+          "id": "v:O3O44PZ84/r4wUWWlsZ:7",
+          "attributes": {
+            "tag": "h4"
+          },
+          "children": [
+            {
+              "type": "TextRun",
+              "id": "v:O3O44PZ84/r4wUWWlsZ:7:0",
+              "attributes": {
+                "text": "Industries We Serve"
+              }
+            }
+          ]
+        },
+        {
+          "type": "TextBulletList",
+          "id": "v:O3O44PZ84/r4wUWWlsZ:8",
+          "attributes": {},
+          "children": [
+            {
+              "type": "TextListItem",
+              "id": "v:O3O44PZ84/r4wUWWlsZ:8:0",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "TextBlock",
+                  "id": "v:O3O44PZ84/r4wUWWlsZ:8:0:0",
+                  "attributes": {
+                    "tag": "p"
+                  },
+                  "children": [
+                    {
+                      "type": "TextRun",
+                      "id": "v:O3O44PZ84/r4wUWWlsZ:8:0:0:0",
+                      "attributes": {
+                        "text": "Commercial Real Estate"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "TextListItem",
+              "id": "v:O3O44PZ84/r4wUWWlsZ:8:1",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "TextBlock",
+                  "id": "v:O3O44PZ84/r4wUWWlsZ:8:1:0",
+                  "attributes": {
+                    "tag": "p"
+                  },
+                  "children": [
+                    {
+                      "type": "TextRun",
+                      "id": "v:O3O44PZ84/r4wUWWlsZ:8:1:0:0",
+                      "attributes": {
+                        "text": "Residential Development"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "TextListItem",
+              "id": "v:O3O44PZ84/r4wUWWlsZ:8:2",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "TextBlock",
+                  "id": "v:O3O44PZ84/r4wUWWlsZ:8:2:0",
+                  "attributes": {
+                    "tag": "p"
+                  },
+                  "children": [
+                    {
+                      "type": "TextRun",
+                      "id": "v:O3O44PZ84/r4wUWWlsZ:8:2:0:0",
+                      "attributes": {
+                        "text": "Healthcare"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "TextListItem",
+              "id": "v:O3O44PZ84/r4wUWWlsZ:8:3",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "TextBlock",
+                  "id": "v:O3O44PZ84/r4wUWWlsZ:8:3:0",
+                  "attributes": {
+                    "tag": "p"
+                  },
+                  "children": [
+                    {
+                      "type": "TextRun",
+                      "id": "v:O3O44PZ84/r4wUWWlsZ:8:3:0:0",
+                      "attributes": {
+                        "text": "Education"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "TextListItem",
+              "id": "v:O3O44PZ84/r4wUWWlsZ:8:4",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "TextBlock",
+                  "id": "v:O3O44PZ84/r4wUWWlsZ:8:4:0",
+                  "attributes": {
+                    "tag": "p"
+                  },
+                  "children": [
+                    {
+                      "type": "TextRun",
+                      "id": "v:O3O44PZ84/r4wUWWlsZ:8:4:0:0",
+                      "attributes": {
+                        "text": "Hospitality"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "TextListItem",
+              "id": "v:O3O44PZ84/r4wUWWlsZ:8:5",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "TextBlock",
+                  "id": "v:O3O44PZ84/r4wUWWlsZ:8:5:0",
+                  "attributes": {
+                    "tag": "p"
+                  },
+                  "children": [
+                    {
+                      "type": "TextRun",
+                      "id": "v:O3O44PZ84/r4wUWWlsZ:8:5:0:0",
+                      "attributes": {
+                        "text": "Industrial Facilities"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "TextListItem",
+              "id": "v:O3O44PZ84/r4wUWWlsZ:8:6",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "TextBlock",
+                  "id": "v:O3O44PZ84/r4wUWWlsZ:8:6:0",
+                  "attributes": {
+                    "tag": "p"
+                  },
+                  "children": [
+                    {
+                      "type": "TextRun",
+                      "id": "v:O3O44PZ84/r4wUWWlsZ:8:6:0:0",
+                      "attributes": {
+                        "text": "Government Buildings"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "TextBlock",
+          "id": "v:O3O44PZ84/r4wUWWlsZ:9",
+          "attributes": {
+            "tag": "h4"
+          },
+          "children": [
+            {
+              "type": "TextRun",
+              "id": "v:O3O44PZ84/r4wUWWlsZ:9:0",
+              "attributes": {
+                "text": "Ready to Build Sustainably?"
+              }
+            }
+          ]
+        },
+        {
+          "type": "TextBlock",
+          "id": "v:O3O44PZ84/r4wUWWlsZ:10",
+          "attributes": {
+            "tag": "p"
+          },
+          "children": [
+            {
+              "type": "TextRun",
+              "id": "v:O3O44PZ84/r4wUWWlsZ:10:0",
+              "attributes": {
+                "text": "Partner with our green building experts to create energy-efficient, environmentally responsible spaces that deliver lasting value, lower operating costs, and support your sustainability goals."
+              }
+            }
+          ]
+        }
+      ],
+      "feature_item_04": "Increased property value",
+      "feature_item_03": "Higher sustainability certification ratings",
+      "feature_item_02": "Reduced operating & maintenance costs",
+      "feature_item_01": "Up to 40% lower energy consumption",
+      "banner_image": {
+        "src": "https://framerusercontent.com/images/erdZWaPXr3fln7Uru0jvyBkflY.png",
+        "alt": "Banner Image"
+      },
+      "thumbnail_image": {
+        "src": "https://framerusercontent.com/images/erdZWaPXr3fln7Uru0jvyBkflY.png",
+        "alt": "Thumbnail Image"
+      },
+      "list_item_05": "Long-term performance monitoring and consulting",
+      "list_item_04": "Water efficiency and material selection guidance",
+      "list_item_03": "LEED, BREEAM & WELL certification support",
+      "list_item_02": "Sustainable design and energy optimization",
+      "list_item_01": "Green building assessment and feasibility study",
+      "badge_title": "{ Green Building Consulting }",
+      "short_description": "Create healthier, energy-efficient buildings with expert green building consulting. We help optimize building performance, reduce operating costs, and achieve sustainability certifications through innovative, eco-friendly design strategies.",
+      "service_title": "Sustainable Building Design & Consulting",
+      "card_title": "Green Building Consulting"
+    },
+    {
+      "card_description": "Adopt circular economy and zero-waste strategies to cut disposal costs by 45% while boosting recycling and minimizing waste.",
+      "serial_no": "04",
+      "slug": "smart-waste-management-reduction-solutions",
+      "main_content": [
+        {
+          "type": "TextBlock",
+          "id": "v:Anwz4FA6v/r4wUWWlsZ:0",
+          "attributes": {
+            "tag": "p"
+          },
+          "children": [
+            {
+              "type": "TextRun",
+              "id": "v:Anwz4FA6v/r4wUWWlsZ:0:0",
+              "attributes": {
+                "text": "Reducing waste is one of the most effective ways to lower operating costs and improve sustainability. Our waste reduction programs help businesses minimize landfill waste, maximize resource efficiency, and implement smarter recycling practices that support environmental compliance and long-term business growth."
+              }
+            }
+          ]
+        },
+        {
+          "type": "TextBlock",
+          "id": "v:Anwz4FA6v/r4wUWWlsZ:1",
+          "attributes": {
+            "tag": "h4"
+          },
+          "children": [
+            {
+              "type": "TextRun",
+              "id": "v:Anwz4FA6v/r4wUWWlsZ:1:0",
+              "attributes": {
+                "text": "What's Included"
+              }
+            }
+          ]
+        },
+        {
+          "type": "TextBulletList",
+          "id": "v:Anwz4FA6v/r4wUWWlsZ:2",
+          "attributes": {},
+          "children": [
+            {
+              "type": "TextListItem",
+              "id": "v:Anwz4FA6v/r4wUWWlsZ:2:0",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "TextBlock",
+                  "id": "v:Anwz4FA6v/r4wUWWlsZ:2:0:0",
+                  "attributes": {
+                    "tag": "p"
+                  },
+                  "children": [
+                    {
+                      "type": "TextRun",
+                      "id": "v:Anwz4FA6v/r4wUWWlsZ:2:0:0:0",
+                      "attributes": {
+                        "text": "Waste audit and material flow analysis"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "TextListItem",
+              "id": "v:Anwz4FA6v/r4wUWWlsZ:2:1",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "TextBlock",
+                  "id": "v:Anwz4FA6v/r4wUWWlsZ:2:1:0",
+                  "attributes": {
+                    "tag": "p"
+                  },
+                  "children": [
+                    {
+                      "type": "TextRun",
+                      "id": "v:Anwz4FA6v/r4wUWWlsZ:2:1:0:0",
+                      "attributes": {
+                        "text": "Waste reduction strategy development"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "TextListItem",
+              "id": "v:Anwz4FA6v/r4wUWWlsZ:2:2",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "TextBlock",
+                  "id": "v:Anwz4FA6v/r4wUWWlsZ:2:2:0",
+                  "attributes": {
+                    "tag": "p"
+                  },
+                  "children": [
+                    {
+                      "type": "TextRun",
+                      "id": "v:Anwz4FA6v/r4wUWWlsZ:2:2:0:0",
+                      "attributes": {
+                        "text": "Recycling and resource recovery programs"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "TextListItem",
+              "id": "v:Anwz4FA6v/r4wUWWlsZ:2:3",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "TextBlock",
+                  "id": "v:Anwz4FA6v/r4wUWWlsZ:2:3:0",
+                  "attributes": {
+                    "tag": "p"
+                  },
+                  "children": [
+                    {
+                      "type": "TextRun",
+                      "id": "v:Anwz4FA6v/r4wUWWlsZ:2:3:0:0",
+                      "attributes": {
+                        "text": "Composting and organic waste solutions"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "TextListItem",
+              "id": "v:Anwz4FA6v/r4wUWWlsZ:2:4",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "TextBlock",
+                  "id": "v:Anwz4FA6v/r4wUWWlsZ:2:4:0",
+                  "attributes": {
+                    "tag": "p"
+                  },
+                  "children": [
+                    {
+                      "type": "TextRun",
+                      "id": "v:Anwz4FA6v/r4wUWWlsZ:2:4:0:0",
+                      "attributes": {
+                        "text": "Regulatory compliance support"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "TextListItem",
+              "id": "v:Anwz4FA6v/r4wUWWlsZ:2:5",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "TextBlock",
+                  "id": "v:Anwz4FA6v/r4wUWWlsZ:2:5:0",
+                  "attributes": {
+                    "tag": "p"
+                  },
+                  "children": [
+                    {
+                      "type": "TextRun",
+                      "id": "v:Anwz4FA6v/r4wUWWlsZ:2:5:0:0",
+                      "attributes": {
+                        "text": "Employee sustainability training"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "TextListItem",
+              "id": "v:Anwz4FA6v/r4wUWWlsZ:2:6",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "TextBlock",
+                  "id": "v:Anwz4FA6v/r4wUWWlsZ:2:6:0",
+                  "attributes": {
+                    "tag": "p"
+                  },
+                  "children": [
+                    {
+                      "type": "TextRun",
+                      "id": "v:Anwz4FA6v/r4wUWWlsZ:2:6:0:0",
+                      "attributes": {
+                        "text": "Performance tracking and reporting"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "TextListItem",
+              "id": "v:Anwz4FA6v/r4wUWWlsZ:2:7",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "TextBlock",
+                  "id": "v:Anwz4FA6v/r4wUWWlsZ:2:7:0",
+                  "attributes": {
+                    "tag": "p"
+                  },
+                  "children": [
+                    {
+                      "type": "TextRun",
+                      "id": "v:Anwz4FA6v/r4wUWWlsZ:2:7:0:0",
+                      "attributes": {
+                        "text": "Continuous improvement consulting"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "TextBlock",
+          "id": "v:Anwz4FA6v/r4wUWWlsZ:3",
+          "attributes": {
+            "tag": "h4"
+          },
+          "children": [
+            {
+              "type": "TextRun",
+              "id": "v:Anwz4FA6v/r4wUWWlsZ:3:0",
+              "attributes": {
+                "text": "Waste Reduction Solutions for Every Business"
+              }
+            }
+          ]
+        },
+        {
+          "type": "TextBlock",
+          "id": "v:Anwz4FA6v/r4wUWWlsZ:4",
+          "attributes": {
+            "tag": "p"
+          },
+          "children": [
+            {
+              "type": "TextRun",
+              "id": "v:Anwz4FA6v/r4wUWWlsZ:4:0",
+              "attributes": {
+                "text": "Transform your waste management process with practical, data-driven solutions. We help organizations reduce waste generation, improve recycling rates, and optimize resource usage while lowering operational costs and supporting corporate sustainability goals."
+              }
+            }
+          ]
+        },
+        {
+          "type": "TextBlock",
+          "id": "v:Anwz4FA6v/r4wUWWlsZ:5",
+          "attributes": {
+            "tag": "h4"
+          },
+          "children": [
+            {
+              "type": "TextRun",
+              "id": "v:Anwz4FA6v/r4wUWWlsZ:5:0",
+              "attributes": {
+                "text": "Average Results You Can Expect"
+              }
+            }
+          ]
+        },
+        {
+          "type": "TextBulletList",
+          "id": "v:Anwz4FA6v/r4wUWWlsZ:6",
+          "attributes": {},
+          "children": [
+            {
+              "type": "TextListItem",
+              "id": "v:Anwz4FA6v/r4wUWWlsZ:6:0",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "TextBlock",
+                  "id": "v:Anwz4FA6v/r4wUWWlsZ:6:0:0",
+                  "attributes": {
+                    "tag": "p"
+                  },
+                  "children": [
+                    {
+                      "type": "TextRun",
+                      "id": "v:Anwz4FA6v/r4wUWWlsZ:6:0:0:0",
+                      "attributes": {
+                        "text": "Up to 35% reduction in waste generation"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "TextListItem",
+              "id": "v:Anwz4FA6v/r4wUWWlsZ:6:1",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "TextBlock",
+                  "id": "v:Anwz4FA6v/r4wUWWlsZ:6:1:0",
+                  "attributes": {
+                    "tag": "p"
+                  },
+                  "children": [
+                    {
+                      "type": "TextRun",
+                      "id": "v:Anwz4FA6v/r4wUWWlsZ:6:1:0:0",
+                      "attributes": {
+                        "text": "Lower disposal and operational costs"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "TextListItem",
+              "id": "v:Anwz4FA6v/r4wUWWlsZ:6:2",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "TextBlock",
+                  "id": "v:Anwz4FA6v/r4wUWWlsZ:6:2:0",
+                  "attributes": {
+                    "tag": "p"
+                  },
+                  "children": [
+                    {
+                      "type": "TextRun",
+                      "id": "v:Anwz4FA6v/r4wUWWlsZ:6:2:0:0",
+                      "attributes": {
+                        "text": "Higher recycling and material recovery rates"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "TextListItem",
+              "id": "v:Anwz4FA6v/r4wUWWlsZ:6:3",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "TextBlock",
+                  "id": "v:Anwz4FA6v/r4wUWWlsZ:6:3:0",
+                  "attributes": {
+                    "tag": "p"
+                  },
+                  "children": [
+                    {
+                      "type": "TextRun",
+                      "id": "v:Anwz4FA6v/r4wUWWlsZ:6:3:0:0",
+                      "attributes": {
+                        "text": "Improved environmental compliance"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "TextBlock",
+          "id": "v:Anwz4FA6v/r4wUWWlsZ:7",
+          "attributes": {
+            "tag": "h4"
+          },
+          "children": [
+            {
+              "type": "TextRun",
+              "id": "v:Anwz4FA6v/r4wUWWlsZ:7:0",
+              "attributes": {
+                "text": "Industries We Serve"
+              }
+            }
+          ]
+        },
+        {
+          "type": "TextBulletList",
+          "id": "v:Anwz4FA6v/r4wUWWlsZ:8",
+          "attributes": {},
+          "children": [
+            {
+              "type": "TextListItem",
+              "id": "v:Anwz4FA6v/r4wUWWlsZ:8:0",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "TextBlock",
+                  "id": "v:Anwz4FA6v/r4wUWWlsZ:8:0:0",
+                  "attributes": {
+                    "tag": "p"
+                  },
+                  "children": [
+                    {
+                      "type": "TextRun",
+                      "id": "v:Anwz4FA6v/r4wUWWlsZ:8:0:0:0",
+                      "attributes": {
+                        "text": "Manufacturing"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "TextListItem",
+              "id": "v:Anwz4FA6v/r4wUWWlsZ:8:1",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "TextBlock",
+                  "id": "v:Anwz4FA6v/r4wUWWlsZ:8:1:0",
+                  "attributes": {
+                    "tag": "p"
+                  },
+                  "children": [
+                    {
+                      "type": "TextRun",
+                      "id": "v:Anwz4FA6v/r4wUWWlsZ:8:1:0:0",
+                      "attributes": {
+                        "text": "Retail"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "TextListItem",
+              "id": "v:Anwz4FA6v/r4wUWWlsZ:8:2",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "TextBlock",
+                  "id": "v:Anwz4FA6v/r4wUWWlsZ:8:2:0",
+                  "attributes": {
+                    "tag": "p"
+                  },
+                  "children": [
+                    {
+                      "type": "TextRun",
+                      "id": "v:Anwz4FA6v/r4wUWWlsZ:8:2:0:0",
+                      "attributes": {
+                        "text": "Healthcare"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "TextListItem",
+              "id": "v:Anwz4FA6v/r4wUWWlsZ:8:3",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "TextBlock",
+                  "id": "v:Anwz4FA6v/r4wUWWlsZ:8:3:0",
+                  "attributes": {
+                    "tag": "p"
+                  },
+                  "children": [
+                    {
+                      "type": "TextRun",
+                      "id": "v:Anwz4FA6v/r4wUWWlsZ:8:3:0:0",
+                      "attributes": {
+                        "text": "Education"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "TextListItem",
+              "id": "v:Anwz4FA6v/r4wUWWlsZ:8:4",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "TextBlock",
+                  "id": "v:Anwz4FA6v/r4wUWWlsZ:8:4:0",
+                  "attributes": {
+                    "tag": "p"
+                  },
+                  "children": [
+                    {
+                      "type": "TextRun",
+                      "id": "v:Anwz4FA6v/r4wUWWlsZ:8:4:0:0",
+                      "attributes": {
+                        "text": "Hospitality"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "TextListItem",
+              "id": "v:Anwz4FA6v/r4wUWWlsZ:8:5",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "TextBlock",
+                  "id": "v:Anwz4FA6v/r4wUWWlsZ:8:5:0",
+                  "attributes": {
+                    "tag": "p"
+                  },
+                  "children": [
+                    {
+                      "type": "TextRun",
+                      "id": "v:Anwz4FA6v/r4wUWWlsZ:8:5:0:0",
+                      "attributes": {
+                        "text": "Commercial Real Estate"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "TextListItem",
+              "id": "v:Anwz4FA6v/r4wUWWlsZ:8:6",
+              "attributes": {},
+              "children": [
+                {
+                  "type": "TextBlock",
+                  "id": "v:Anwz4FA6v/r4wUWWlsZ:8:6:0",
+                  "attributes": {
+                    "tag": "p"
+                  },
+                  "children": [
+                    {
+                      "type": "TextRun",
+                      "id": "v:Anwz4FA6v/r4wUWWlsZ:8:6:0:0",
+                      "attributes": {
+                        "text": "Food & Beverage"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "TextBlock",
+          "id": "v:Anwz4FA6v/r4wUWWlsZ:9",
+          "attributes": {
+            "tag": "h4"
+          },
+          "children": [
+            {
+              "type": "TextRun",
+              "id": "v:Anwz4FA6v/r4wUWWlsZ:9:0",
+              "attributes": {
+                "text": "Ready to Reduce Your Waste?"
+              }
+            }
+          ]
+        },
+        {
+          "type": "TextBlock",
+          "id": "v:Anwz4FA6v/r4wUWWlsZ:10",
+          "attributes": {
+            "tag": "p"
+          },
+          "children": [
+            {
+              "type": "TextRun",
+              "id": "v:Anwz4FA6v/r4wUWWlsZ:10:0",
+              "attributes": {
+                "text": "Partner with our sustainability experts to develop a customized waste reduction program that cuts costs, improves resource efficiency, and supports your environmental objectives."
+              }
+            }
+          ]
+        }
+      ],
+      "feature_item_04": "Improved environmental compliance",
+      "feature_item_03": "Increased recycling and resource recovery",
+      "feature_item_02": "Lower disposal and operating costs",
+      "feature_item_01": "Up to 35% reduction in waste generation",
+      "banner_image": {
+        "src": "https://framerusercontent.com/images/g6eSLC29ib5x3KN5vOyvEyhM3E.png",
+        "alt": "Banner Image"
+      },
+      "thumbnail_image": {
+        "src": "https://framerusercontent.com/images/g6eSLC29ib5x3KN5vOyvEyhM3E.png",
+        "alt": "Thumbnail Image"
+      },
+      "list_item_05": "Ongoing monitoring and sustainability support",
+      "list_item_04": "Compliance with environmental regulations",
+      "list_item_03": "Recycling and resource recovery programs",
+      "list_item_02": "Custom waste reduction strategy and planning",
+      "list_item_01": "Comprehensive waste assessment and analysis",
+      "badge_title": "{ Waste Reduction Programs }",
+      "short_description": "Minimize waste, reduce disposal costs, and improve sustainability with tailored waste reduction programs. We help businesses optimize resource usage, increase recycling efforts, and implement practical strategies that support long-term environmental goals.",
+      "service_title": "Smart Waste Management & Reduction Solutions",
+      "card_title": "Waste Reduction Programs"
+    }
+  ],
+  "Privacy & Terms": [
+    {
+      "slug": "privacy-policy",
+      "main_content": [
+        {
+          "type": "TextBlock",
+          "id": "v:feWo0ZGMe/iMlYwS21l:0",
+          "attributes": {
+            "tag": "h4"
+          },
+          "children": [
+            {
+              "type": "TextRun",
+              "id": "v:feWo0ZGMe/iMlYwS21l:0:0",
+              "attributes": {
+                "text": "Introduction"
+              }
+            }
+          ]
+        },
+        {
+          "type": "TextBlock",
+          "id": "v:feWo0ZGMe/iMlYwS21l:1",
+          "attributes": {
+            "tag": "p"
+          },
+          "children": [
+            {
+              "type": "TextRun",
+              "id": "v:feWo0ZGMe/iMlYwS21l:1:0",
+              "attributes": {
+                "text": "We value your privacy and are committed to protecting your personal information. This Privacy Policy explains the types of data we collect, how we use and process it, and how we store and secure your information. It also outlines when and why your data may be shared and describes your rights regarding your personal information."
+              }
+            }
+          ]
+        },
+        {
+          "type": "TextBlock",
+          "id": "v:feWo0ZGMe/iMlYwS21l:2",
+          "attributes": {
+            "tag": "h4"
+          },
+          "children": [
+            {
+              "type": "TextRun",
+              "id": "v:feWo0ZGMe/iMlYwS21l:2:0",
+              "attributes": {
+                "text": "Information We Collect"
+              }
+            }
+          ]
+        },
+        {
+          "type": "TextBlock",
+          "id": "v:feWo0ZGMe/iMlYwS21l:3",
+          "attributes": {
+            "tag": "p"
+          },
+          "children": [
+            {
+              "type": "TextRun",
+              "id": "v:feWo0ZGMe/iMlYwS21l:3:0",
+              "attributes": {
+                "text": "We may collect various types of information to improve your experience. This includes personal information such as your name, email, phone number, and company details. We also gather usage data, including pages visited, time spent on the site, browser type, and device information. Additionally, we use cookies and tracking files to enhance website functionality and analyze overall site performance."
+              }
+            }
+          ]
+        },
+        {
+          "type": "TextBlock",
+          "id": "v:feWo0ZGMe/iMlYwS21l:4",
+          "attributes": {
+            "tag": "h4"
+          },
+          "children": [
+            {
+              "type": "TextRun",
+              "id": "v:feWo0ZGMe/iMlYwS21l:4:0",
+              "attributes": {
+                "text": "How We Use Your Information"
+              }
+            }
+          ]
+        },
+        {
+          "type": "TextBlock",
+          "id": "v:feWo0ZGMe/iMlYwS21l:5",
+          "attributes": {
+            "tag": "p"
+          },
+          "children": [
+            {
+              "type": "TextRun",
+              "id": "v:feWo0ZGMe/iMlYwS21l:5:0",
+              "attributes": {
+                "text": "We use your information to provide and improve our services, respond to inquiries and requests, and send relevant updates or marketing communications with your consent. It also helps us analyze website usage, optimize the user experience, and ensure compliance with legal obligations."
+              }
+            }
+          ]
+        },
+        {
+          "type": "TextBlock",
+          "id": "v:feWo0ZGMe/iMlYwS21l:6",
+          "attributes": {
+            "tag": "h4"
+          },
+          "children": [
+            {
+              "type": "TextRun",
+              "id": "v:feWo0ZGMe/iMlYwS21l:6:0",
+              "attributes": {
+                "text": "Sharing & Disclosure"
+              }
+            }
+          ]
+        },
+        {
+          "type": "TextBlock",
+          "id": "v:feWo0ZGMe/iMlYwS21l:7",
+          "attributes": {
+            "tag": "p"
+          },
+          "children": [
+            {
+              "type": "TextRun",
+              "id": "v:feWo0ZGMe/iMlYwS21l:7:0",
+              "attributes": {
+                "text": "We do not sell your personal data, and your information is kept private and secure at all times. We may share data with trusted partners or service providers to help deliver our services effectively, but all sharing is governed by strict confidentiality agreements."
+              }
+            }
+          ]
+        },
+        {
+          "type": "TextBlock",
+          "id": "v:feWo0ZGMe/iMlYwS21l:8",
+          "attributes": {
+            "tag": "h4"
+          },
+          "children": [
+            {
+              "type": "TextRun",
+              "id": "v:feWo0ZGMe/iMlYwS21l:8:0",
+              "attributes": {
+                "text": "Data Security"
+              }
+            }
+          ]
+        },
+        {
+          "type": "TextBlock",
+          "id": "v:feWo0ZGMe/iMlYwS21l:9",
+          "attributes": {
+            "tag": "p"
+          },
+          "children": [
+            {
+              "type": "TextRun",
+              "id": "v:feWo0ZGMe/iMlYwS21l:9:0",
+              "attributes": {
+                "text": "We take your data security seriously, implementing both technical and organizational measures to prevent unauthorized access. Our procedures ensure proper handling of your information, protecting it from loss, theft, or misuse. Our goal is to maintain your trust through secure and reliable practices."
+              }
+            }
+          ]
+        },
+        {
+          "type": "TextBlock",
+          "id": "v:feWo0ZGMe/iMlYwS21l:10",
+          "attributes": {
+            "tag": "h4"
+          },
+          "children": [
+            {
+              "type": "TextRun",
+              "id": "v:feWo0ZGMe/iMlYwS21l:10:0",
+              "attributes": {
+                "text": "Your Rights"
+              }
+            }
+          ]
+        },
+        {
+          "type": "TextBlock",
+          "id": "v:feWo0ZGMe/iMlYwS21l:11",
+          "attributes": {
+            "tag": "p"
+          },
+          "children": [
+            {
+              "type": "TextRun",
+              "id": "v:feWo0ZGMe/iMlYwS21l:11:0",
+              "attributes": {
+                "text": "You have the right to access, correct, or delete your personal information at any time. You can also withdraw consent for data processing, opt out of marketing communications, and request details about how your data is collected, used, and stored."
+              }
+            }
+          ]
+        },
+        {
+          "type": "TextBlock",
+          "id": "v:feWo0ZGMe/iMlYwS21l:12",
+          "attributes": {
+            "tag": "h4"
+          },
+          "children": [
+            {
+              "type": "TextRun",
+              "id": "v:feWo0ZGMe/iMlYwS21l:12:0",
+              "attributes": {
+                "text": "Cookies"
+              }
+            }
+          ]
+        },
+        {
+          "type": "TextBlock",
+          "id": "v:feWo0ZGMe/iMlYwS21l:13",
+          "attributes": {
+            "tag": "p"
+          },
+          "children": [
+            {
+              "type": "TextRun",
+              "id": "v:feWo0ZGMe/iMlYwS21l:13:0",
+              "attributes": {
+                "text": "Our website uses small files called cookies to make your experience better. Cookies help the site remember your preferences, track how you use the site, and show content that is more relevant to you. You are in control\u2014if you want, you can manage or block cookies anytime through your browser settings."
+              }
+            }
+          ]
+        },
+        {
+          "type": "TextBlock",
+          "id": "v:feWo0ZGMe/iMlYwS21l:14",
+          "attributes": {
+            "tag": "h4"
+          },
+          "children": [
+            {
+              "type": "TextRun",
+              "id": "v:feWo0ZGMe/iMlYwS21l:14:0",
+              "attributes": {
+                "text": "Updates to This Policy"
+              }
+            }
+          ]
+        },
+        {
+          "type": "TextBlock",
+          "id": "v:feWo0ZGMe/iMlYwS21l:15",
+          "attributes": {
+            "tag": "p"
+          },
+          "children": [
+            {
+              "type": "TextRun",
+              "id": "v:feWo0ZGMe/iMlYwS21l:15:0",
+              "attributes": {
+                "text": "We may update this Privacy Policy periodically to reflect changes in our practices or legal requirements. Any updates will be posted on this page with the revised date. By continuing to use our website, you agree to and accept the updated policy."
+              }
+            }
+          ]
+        }
+      ],
+      "short_description": "We respect your privacy and handle your data securely and responsibly.",
+      "title": "Privacy Policy"
+    },
+    {
+      "slug": "terms-of-service",
+      "main_content": [
+        {
+          "type": "TextBlock",
+          "id": "v:Pvw5q6vt4/iMlYwS21l:0",
+          "attributes": {
+            "tag": "h4"
+          },
+          "children": [
+            {
+              "type": "TextRun",
+              "id": "v:Pvw5q6vt4/iMlYwS21l:0:0",
+              "attributes": {
+                "text": "Introduction"
+              }
+            }
+          ]
+        },
+        {
+          "type": "TextBlock",
+          "id": "v:Pvw5q6vt4/iMlYwS21l:1",
+          "attributes": {
+            "tag": "p"
+          },
+          "children": [
+            {
+              "type": "TextRun",
+              "id": "v:Pvw5q6vt4/iMlYwS21l:1:0",
+              "attributes": {
+                "text": "Welcome to our website. By accessing or using our site and services, you agree to comply with these Terms of Service. Please read them carefully before using our website.Welcome to our website. By accessing or using our site and services, you agree to comply with these Terms of Service. Please read them carefully before using our website."
+              }
+            }
+          ]
+        },
+        {
+          "type": "TextBlock",
+          "id": "v:Pvw5q6vt4/iMlYwS21l:2",
+          "attributes": {
+            "tag": "h4"
+          },
+          "children": [
+            {
+              "type": "TextRun",
+              "id": "v:Pvw5q6vt4/iMlYwS21l:2:0",
+              "attributes": {
+                "text": "Use of the Website"
+              }
+            }
+          ]
+        },
+        {
+          "type": "TextBlock",
+          "id": "v:Pvw5q6vt4/iMlYwS21l:3",
+          "attributes": {
+            "tag": "p"
+          },
+          "children": [
+            {
+              "type": "TextRun",
+              "id": "v:Pvw5q6vt4/iMlYwS21l:3:0",
+              "attributes": {
+                "text": "You may use our website only for lawful purposes and in accordance with applicable laws and regulations. You agree not to misuse the website by engaging in any illegal activities, interfering with or disrupting its functionality, or attempting to gain unauthorized access to any part of the site, servers, or related systems."
+              }
+            }
+          ]
+        },
+        {
+          "type": "TextBlock",
+          "id": "v:Pvw5q6vt4/iMlYwS21l:4",
+          "attributes": {
+            "tag": "h4"
+          },
+          "children": [
+            {
+              "type": "TextRun",
+              "id": "v:Pvw5q6vt4/iMlYwS21l:4:0",
+              "attributes": {
+                "text": "Accounts & Security"
+              }
+            }
+          ]
+        },
+        {
+          "type": "TextBlock",
+          "id": "v:Pvw5q6vt4/iMlYwS21l:5",
+          "attributes": {
+            "tag": "p"
+          },
+          "children": [
+            {
+              "type": "TextRun",
+              "id": "v:Pvw5q6vt4/iMlYwS21l:5:0",
+              "attributes": {
+                "text": "If you create an account, you are responsible for maintaining the confidentiality of your login credentials. You agree to notify us immediately of any unauthorized use of your account"
+              }
+            }
+          ]
+        },
+        {
+          "type": "TextBlock",
+          "id": "v:Pvw5q6vt4/iMlYwS21l:6",
+          "attributes": {
+            "tag": "h4"
+          },
+          "children": [
+            {
+              "type": "TextRun",
+              "id": "v:Pvw5q6vt4/iMlYwS21l:6:0",
+              "attributes": {
+                "text": "Intellectual Property"
+              }
+            }
+          ]
+        },
+        {
+          "type": "TextBlock",
+          "id": "v:Pvw5q6vt4/iMlYwS21l:7",
+          "attributes": {
+            "tag": "p"
+          },
+          "children": [
+            {
+              "type": "TextRun",
+              "id": "v:Pvw5q6vt4/iMlYwS21l:7:0",
+              "attributes": {
+                "text": "All content on this website, including text, images, logos, and designs, is the property of our company or its licensors and is protected by copyright and other intellectual property laws. You may not use, reproduce, or distribute any content without prior written permission."
+              }
+            }
+          ]
+        },
+        {
+          "type": "TextBlock",
+          "id": "v:Pvw5q6vt4/iMlYwS21l:8",
+          "attributes": {
+            "tag": "h4"
+          },
+          "children": [
+            {
+              "type": "TextRun",
+              "id": "v:Pvw5q6vt4/iMlYwS21l:8:0",
+              "attributes": {
+                "text": "User-Generated Content"
+              }
+            }
+          ]
+        },
+        {
+          "type": "TextBlock",
+          "id": "v:Pvw5q6vt4/iMlYwS21l:9",
+          "attributes": {
+            "tag": "p"
+          },
+          "children": [
+            {
+              "type": "TextRun",
+              "id": "v:Pvw5q6vt4/iMlYwS21l:9:0",
+              "attributes": {
+                "text": "By submitting content, such as comments, reviews, or messages, you grant us a non-exclusive, worldwide, royalty-free license to use, modify, and display the content for promotional or operational purposes. You are responsible for ensuring that your content does not violate any laws or third-party rights."
+              }
+            }
+          ]
+        },
+        {
+          "type": "TextBlock",
+          "id": "v:Pvw5q6vt4/iMlYwS21l:10",
+          "attributes": {
+            "tag": "h4"
+          },
+          "children": [
+            {
+              "type": "TextRun",
+              "id": "v:Pvw5q6vt4/iMlYwS21l:10:0",
+              "attributes": {
+                "text": "Third-Party Links"
+              }
+            }
+          ]
+        },
+        {
+          "type": "TextBlock",
+          "id": "v:Pvw5q6vt4/iMlYwS21l:11",
+          "attributes": {
+            "tag": "p"
+          },
+          "children": [
+            {
+              "type": "TextRun",
+              "id": "v:Pvw5q6vt4/iMlYwS21l:11:0",
+              "attributes": {
+                "text": "Our website may contain links to third-party websites. We are not responsible for the content or practices of these sites. Accessing third-party links is at your own risk."
+              }
+            }
+          ]
+        },
+        {
+          "type": "TextBlock",
+          "id": "v:Pvw5q6vt4/iMlYwS21l:12",
+          "attributes": {
+            "tag": "h4"
+          },
+          "children": [
+            {
+              "type": "TextRun",
+              "id": "v:Pvw5q6vt4/iMlYwS21l:12:0",
+              "attributes": {
+                "text": "Limitation of Liability"
+              }
+            }
+          ]
+        },
+        {
+          "type": "TextBlock",
+          "id": "v:Pvw5q6vt4/iMlYwS21l:13",
+          "attributes": {
+            "tag": "p"
+          },
+          "children": [
+            {
+              "type": "TextRun",
+              "id": "v:Pvw5q6vt4/iMlYwS21l:13:0",
+              "attributes": {
+                "text": "We strive to provide accurate and reliable information but do not guarantee the completeness, accuracy, or availability of the website or services. We are not liable for any damages arising from the use or inability to use our website."
+              }
+            }
+          ]
+        },
+        {
+          "type": "TextBlock",
+          "id": "v:Pvw5q6vt4/iMlYwS21l:14",
+          "attributes": {
+            "tag": "h4"
+          },
+          "children": [
+            {
+              "type": "TextRun",
+              "id": "v:Pvw5q6vt4/iMlYwS21l:14:0",
+              "attributes": {
+                "text": "Modifications to Terms"
+              }
+            }
+          ]
+        },
+        {
+          "type": "TextBlock",
+          "id": "v:Pvw5q6vt4/iMlYwS21l:15",
+          "attributes": {
+            "tag": "p"
+          },
+          "children": [
+            {
+              "type": "TextRun",
+              "id": "v:Pvw5q6vt4/iMlYwS21l:15:0",
+              "attributes": {
+                "text": "We may update these Terms of Service at any time. Changes will be posted on this page with the updated date. Your continued use of the website constitutes acceptance of the updated terms."
+              }
+            }
+          ]
+        }
+      ],
+      "short_description": "Our Terms of Service outline the rules and guidelines for using our website and services, ensuring a safe, fair, and transparent experience for all users.",
+      "title": "Terms of Service"
+    }
+  ]
+}
