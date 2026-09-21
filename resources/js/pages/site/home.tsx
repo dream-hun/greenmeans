@@ -1,4 +1,4 @@
-import { Head, Link } from '@inertiajs/react';
+import { Head, Link } from "@inertiajs/react";
 import {
     FaqSection,
     PartnerLogos,
@@ -7,9 +7,9 @@ import {
     StepCards,
     SuccessStories,
     ServiceRail,
-} from '@/components/site/sections';
-import HeroVideo from '@/components/site/hero-video';
-import { ScrollReveal } from '@/components/site/motion';
+} from "@/components/site/sections";
+import HeroVideo from "@/components/site/hero-video";
+import { ScrollReveal } from "@/components/site/motion";
 import {
     appear,
     Btn,
@@ -19,9 +19,9 @@ import {
     Section,
     SectionHeading,
     SectionNumber,
-} from '@/components/site/ui';
-import { about, blog, contact, services as servicesRoute } from '@/routes';
-import type { Faq, Project, Service, Stat, Step, Value } from '@/types/site';
+} from "@/components/site/ui";
+import { about, blog, contact, services as servicesRoute } from "@/routes";
+import type { Faq, Project, Service, Stat, Step, Value } from "@/types/site";
 
 interface Props {
     services: Service[];
@@ -34,19 +34,19 @@ interface Props {
 
 const serviceAreas = [
     {
-        name: 'Rwanda',
+        name: "Rwanda",
         description:
-            'Our home market, served from our head office at 30 KN 1 Road, Muhima, Kigali.',
+            "Our home market, served from our head office at 30 KN 1 Road, Muhima, Kigali.",
     },
     {
-        name: 'Burundi',
+        name: "Burundi",
         description:
-            'HVAC, electronics, display, and audio solutions delivered across the country.',
+            "HVAC, electronics, display, and audio solutions delivered across the country.",
     },
     {
-        name: 'Eastern DRC',
+        name: "Eastern DRC",
         description:
-            'Technical solutions and equipment supply for clients in the eastern provinces.',
+            "Technical solutions and equipment supply for clients in the eastern provinces.",
     },
 ];
 
@@ -68,36 +68,36 @@ export default function Home({
                 <link
                     rel="preload"
                     as="image"
-                    href={photo('hero-home-poster')}
+                    href={photo("hero-home-poster")}
                     fetchPriority="high"
                 />
             </Head>
 
             <section className="home-hero">
-                <div className="hero-media" {...appear('zoom', 0, true)}>
+                <div className="hero-media" {...appear("zoom", 0, true)}>
                     <HeroVideo
-                        src={clip('hero-home')}
-                        poster={photo('hero-home-poster')}
+                        src={clip("hero-home")}
+                        poster={photo("hero-home-poster")}
                         alt="A wall-mounted split air-conditioning unit supplied by Green Means Ltd"
                     />
                     <div className="hero-shade" />
                 </div>
                 <div className="page-container">
                     <div className="hero-copy">
-                        <h1 {...appear('fade', 0, true)}>
+                        <h1 {...appear("fade", 0, true)}>
                             Sustainable Solutions for
                             <br className="hidden md:block" /> Comfortable,
                             Efficient Spaces
                         </h1>
-                        <p {...appear('up', 0.4, true)}>
+                        <p {...appear("up", 0.4, true)}>
                             HVAC, climate-control, electronics, appliance,
                             display, audio, and technical support solutions for
                             homes, businesses, institutions, and commercial
                             facilities.
                         </p>
                         <div
-                            className="mt-[45px] flex flex-wrap justify-center gap-3"
-                            {...appear('up', 0.6, true)}
+                            className="mt-11.25 flex flex-wrap justify-center gap-3"
+                            {...appear("up", 0.6, true)}
                         >
                             <Btn href={contact.url()} label="Request a Quote" />
                             <Btn
@@ -111,7 +111,7 @@ export default function Home({
                         <Link
                             className="hero-update"
                             href={blog.url()}
-                            {...appear('left', 0.6, true)}
+                            {...appear("left", 0.6, true)}
                         >
                             <div className="flex justify-between">
                                 <div>
@@ -131,7 +131,7 @@ export default function Home({
                         </Link>
                         <div
                             className="hero-reviews"
-                            {...appear('right', 0.6, true)}
+                            {...appear("right", 0.6, true)}
                         >
                             <div>
                                 <p className="text-lg font-medium">
@@ -150,7 +150,7 @@ export default function Home({
                 <div className="about-intro">
                     <div
                         className="flex flex-col items-start justify-between gap-10"
-                        {...appear('up')}
+                        {...appear("up")}
                     >
                         <div>
                             <SectionNumber>01</SectionNumber>
@@ -158,13 +158,13 @@ export default function Home({
                                 About <em>Green Means</em>
                             </h2>
                         </div>
-                        <p className="text-muted max-w-[350px]">
+                        <p className="text-muted max-w-87.5">
                             Founded in 2020 and headquartered in Kigali, Green
                             Means Ltd provides technical solutions across
                             Rwanda, Burundi, and Eastern DRC.
                         </p>
                     </div>
-                    <div {...appear('up')}>
+                    <div {...appear("up")}>
                         <ScrollReveal
                             className="text-muted text-[22px] leading-[1.43] lg:text-[28px]"
                             text="From system design and equipment supply to installation, maintenance, and repair, we provide practical solutions focused on performance, energy efficiency, reliability, and long-term customer support."
@@ -218,7 +218,7 @@ export default function Home({
                 />
                 <StepCards
                     steps={values.map((value, index) => ({
-                        step: String(index + 1).padStart(2, '0'),
+                        step: String(index + 1).padStart(2, "0"),
                         title: value.title,
                         description: value.description,
                     }))}
@@ -252,8 +252,8 @@ export default function Home({
                     {serviceAreas.map((area, index) => (
                         <article
                             key={area.name}
-                            className="flex min-h-[290px] flex-col justify-between rounded-xl bg-white p-7"
-                            {...appear('zoom', 0.4 + index * 0.2)}
+                            className="flex min-h-72 flex-col justify-between rounded-xl bg-white p-7"
+                            {...appear("zoom", 0.4 + index * 0.2)}
                         >
                             <p className="text-muted text-xs">{`{ 0${index + 1} }`}</p>
                             <div>

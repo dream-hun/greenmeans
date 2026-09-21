@@ -72,6 +72,28 @@ export default function Contact({
                                 </div>
                                 <div>
                                     <h2 className="text-xl font-medium">
+                                        Phone
+                                    </h2>
+                                    <a
+                                        className="text-muted mt-4 block text-sm"
+                                        href="tel:+250793084852"
+                                    >
+                                        0793 084 852
+                                    </a>
+                                </div>
+                                <div>
+                                    <h2 className="text-xl font-medium">
+                                        Email
+                                    </h2>
+                                    <a
+                                        className="text-muted mt-4 block text-sm break-all"
+                                        href="mailto:sales@greenmeans.rw"
+                                    >
+                                        sales@greenmeans.rw
+                                    </a>
+                                </div>
+                                <div>
+                                    <h2 className="text-xl font-medium">
                                         Website
                                     </h2>
                                     <a
@@ -98,10 +120,8 @@ export default function Contact({
                                 </div>
                             </div>
                             <p className="text-muted mt-12 max-w-[440px] text-xs">
-                                Telephone, WhatsApp, and email details are
-                                published here once confirmed. In the meantime,
-                                send your request through the form and our team
-                                will respond.
+                                Call or email us directly, or send your request
+                                through the form and our team will respond.
                             </p>
                         </div>
                         <div {...appear('up', 0.4, true)}>

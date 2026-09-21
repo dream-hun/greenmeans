@@ -1,7 +1,7 @@
 import { Link } from '@inertiajs/react';
 import Brand from '@/components/site/brand';
 import NewsletterForm from '@/components/site/newsletter-form';
-import { icons, map, pin } from '@/components/site/social-icons';
+import { icons, mail, map, phone, pin } from '@/components/site/social-icons';
 import { Btn } from '@/components/site/ui';
 import {
     about,
@@ -97,6 +97,16 @@ export default function SiteFooter() {
                             <span>
                                 Serving Rwanda, Burundi &amp; Eastern DRC
                             </span>
+                        </p>
+                        <p className="footer-contact">
+                            {phone}
+                            <a href="tel:+250793084852">0793 084 852</a>
+                        </p>
+                        <p className="footer-contact">
+                            {mail}
+                            <a href="mailto:sales@greenmeans.rw">
+                                sales@greenmeans.rw
+                            </a>
                         </p>
                         <div className="social-row">
                             {social

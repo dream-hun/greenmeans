@@ -1,11 +1,11 @@
-@import 'tailwindcss' source(none);
+@import "tailwindcss" source(none);
 @source "../js/pages/site";
 @source "../js/components/site";
 @source "../js/layouts/site-layout.tsx";
 @source "../js/hooks/use-site-effects.ts";
 
 @theme {
-    --font-sans: 'Inter', Arial, sans-serif;
+    --font-sans: "Inter", Arial, sans-serif;
     --color-paper: #f2f2f2;
     --color-forest: #1b4332;
     --color-sage: #376f58;
@@ -18,14 +18,14 @@
 }
 @font-face {
     font-family: Inter;
-    src: url('/site/fonts/inter-latin-wght-normal.woff2') format('woff2');
+    src: url("/site/fonts/inter-latin-wght-normal.woff2") format("woff2");
     font-style: normal;
     font-weight: 100 900;
     font-display: swap;
 }
 @font-face {
     font-family: Inter;
-    src: url('/site/fonts/inter-latin-wght-italic.woff2') format('woff2');
+    src: url("/site/fonts/inter-latin-wght-italic.woff2") format("woff2");
     font-style: italic;
     font-weight: 100 900;
     font-display: swap;
@@ -38,7 +38,7 @@
     }
     body {
         margin: 0;
-        font-size: 16px;
+        font-size: 18px;
         line-height: 1.5;
     }
     button,
@@ -266,10 +266,10 @@
         background: currentColor;
         margin: 7px auto;
     }
-    .menu-toggle[aria-expanded='true'] span:first-child {
+    .menu-toggle[aria-expanded="true"] span:first-child {
         transform: translateY(4px) rotate(45deg);
     }
-    .menu-toggle[aria-expanded='true'] span:last-child {
+    .menu-toggle[aria-expanded="true"] span:last-child {
         transform: translateY(-4px) rotate(-45deg);
     }
     .mobile-menu {
@@ -771,7 +771,7 @@
         color: var(--color-muted);
         font-size: 14px;
     }
-    .billing-toggle button[aria-pressed='true'] {
+    .billing-toggle button[aria-pressed="true"] {
         background: var(--color-paper);
         color: var(--color-ink);
     }
@@ -815,10 +815,14 @@
     .site-footer {
         background-color: #103c30;
         background-image:
-            url('/site/images/air-conditioner-footer.svg'),
+            url("/site/images/air-conditioner-footer.svg"),
             radial-gradient(ellipse at top right, #376f58, transparent 65%);
-        background-size: min(620px, 44vw) auto, 100% 700px;
-        background-position: right top 35px, center top;
+        background-size:
+            min(620px, 44vw) auto,
+            100% 700px;
+        background-position:
+            right top 35px,
+            center top;
         background-repeat: no-repeat;
         padding: 130px 20px 20px;
     }
@@ -1506,8 +1510,12 @@
     }
     .site-footer {
         padding-top: 290px;
-        background-size: 380px auto, 100% 700px;
-        background-position: center top, center top;
+        background-size:
+            380px auto,
+            100% 700px;
+        background-position:
+            center top,
+            center top;
     }
     .footer-cta {
         text-align: center;
@@ -1622,19 +1630,19 @@
             background-color 0.2s,
             color 0.2s;
     }
-    .js [data-appear='up'] {
+    .js [data-appear="up"] {
         transform: translateY(60px);
     }
-    .js [data-appear='left'] {
+    .js [data-appear="left"] {
         transform: translateX(-60px);
     }
-    .js [data-appear='right'] {
+    .js [data-appear="right"] {
         transform: translateX(60px);
     }
-    .js [data-appear='zoom'] {
+    .js [data-appear="zoom"] {
         transform: scale(0.8);
     }
-    .js [data-appear='zoom-sm'] {
+    .js [data-appear="zoom-sm"] {
         transform: scale(0.7);
     }
     .js [data-appear].is-visible {

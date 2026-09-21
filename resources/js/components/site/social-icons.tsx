@@ -61,3 +61,14 @@ export const map = line(
         <path d="M9 4v13.5M15 6.5V20" />
     </>,
 );
+
+export const phone = line(
+    <path d="M6.5 3h3l1.5 4.5-2 1.3a12 12 0 0 0 6.2 6.2l1.3-2L21 14.5v3a2.5 2.5 0 0 1-2.7 2.5A16.5 16.5 0 0 1 4 5.7 2.5 2.5 0 0 1 6.5 3Z" />,
+);
+
+export const mail = line(
+    <>
+        <rect x="3" y="5" width="18" height="14" rx="2" />
+        <path d="m3.5 7 8.5 6 8.5-6" />
+    </>,
+);
