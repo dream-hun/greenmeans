@@ -65,10 +65,6 @@ export default function ProjectDetail({
                                     <dd>{project.category}</dd>
                                 </div>
                                 <div>
-                                    <dt className="text-muted">Service area</dt>
-                                    <dd>Rwanda, Burundi &amp; Eastern DRC</dd>
-                                </div>
-                                <div>
                                     <dt className="text-muted">Status</dt>
                                     <dd>{project.status}</dd>
                                 </div>

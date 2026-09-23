@@ -3,11 +3,12 @@
 > **Content basis:** This website copy is developed from Green Means
 > Ltd's public LinkedIn company profile. The profile identifies Green
 > Means Ltd as a Kigali-based specialty trade contractor founded in
-> 2020, serving Rwanda, Burundi, and Eastern DRC. Its stated activities
+> 2020. Its stated activities
 > include HVAC design, supply, installation and maintenance; VRF
 > systems; heating systems; air handling units; electronics and
 > appliances; indoor and outdoor display solutions; sound and audio
-> solutions; and an authorized repair/service center.
+> solutions; and an authorized repair/service center. The operating area
+> has been updated to Rwanda only, as confirmed by the company.
 >
 > **Editorial note:** The LinkedIn public page does not expose a
 > verified portfolio of named client projects or detailed company news
@@ -43,7 +44,7 @@ energy efficiency, reliability, and long-term customer support.
 ### Technical Solutions Built Around Your Needs
 
 Founded in 2020 and headquartered in Kigali, Green Means Ltd provides
-technical solutions across Rwanda, Burundi, and Eastern DRC.
+technical solutions across Rwanda.
 
 Our core expertise is in HVAC systems, including air conditioning, VRF
 systems, heating systems, and air handling units. We also supply
@@ -166,14 +167,9 @@ supply, electronics, displays, audio solutions, and technical servicing.
 
 ## Service Area
 
-### Supporting Clients Across the Region
+### Supporting Clients Across Rwanda
 
-Green Means Ltd is headquartered in Kigali, Rwanda, with services
-extending across:
-
--   Rwanda
--   Burundi
--   Eastern Democratic Republic of Congo
+Green Means Ltd is headquartered in Kigali, Rwanda, with services across Rwanda.
 
 ------------------------------------------------------------------------
 
@@ -205,7 +201,7 @@ and customer requirements.
 
 Green Means Ltd is a privately held specialty trade contractor
 headquartered in Kigali, Rwanda. Founded in 2020, the company serves
-customers in Rwanda, Burundi, and Eastern DRC.
+customers in Rwanda.
 
 Our work combines equipment supply with technical expertise. We design,
 supply, install, maintain, and repair HVAC systems while also providing
@@ -292,8 +288,7 @@ address technical issues after installation or purchase.
 
 **Head Office:** 30 KN 1 Road, Muhima, Kigali, Rwanda
 
-Green Means Ltd serves customers in Rwanda and extends its solutions to
-Burundi and Eastern DRC.
+Green Means Ltd serves customers in Rwanda.
 
 ------------------------------------------------------------------------
 
@@ -912,7 +907,7 @@ Rwanda
 
 ### Service Area
 
-We serve clients in: - Rwanda - Burundi - Eastern DRC
+We serve clients in Rwanda.
 
 ### Website
 

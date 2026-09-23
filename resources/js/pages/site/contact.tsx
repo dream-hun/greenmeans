@@ -32,7 +32,7 @@ export default function Contact({
 
             <section className="detail-page section-space">
                 <div className="page-container">
-                    <div className="grid items-start gap-14 md:grid-cols-[1fr_1.15fr]">
+                    <div className="grid items-start gap-10 md:grid-cols-[1fr_1.15fr] lg:gap-12">
                         <div {...appear('left', 0.2, true)}>
                             <h1 className="text-[38px] leading-tight font-medium lg:text-[50px]">
                                 Contact Green Means Ltd
@@ -43,7 +43,7 @@ export default function Contact({
                                 solutions, or technical repair? Tell us what you
                                 need and our team can advise on the next step.
                             </p>
-                            <div className="mt-16 grid grid-cols-2 gap-x-10 gap-y-12">
+                            <div className="mt-10 grid gap-8 sm:grid-cols-2">
                                 <div>
                                     <h2 className="text-xl font-medium">
                                         Head Office
@@ -56,18 +56,6 @@ export default function Contact({
                                         Muhima, Kigali
                                         <br />
                                         Rwanda
-                                    </p>
-                                </div>
-                                <div>
-                                    <h2 className="text-xl font-medium">
-                                        Service Area
-                                    </h2>
-                                    <p className="text-muted mt-4 max-w-[240px] text-sm">
-                                        Rwanda
-                                        <br />
-                                        Burundi
-                                        <br />
-                                        Eastern DRC
                                     </p>
                                 </div>
                                 <div>

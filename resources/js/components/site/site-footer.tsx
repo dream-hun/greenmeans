@@ -1,7 +1,7 @@
 import { Link } from '@inertiajs/react';
 import Brand from '@/components/site/brand';
 import NewsletterForm from '@/components/site/newsletter-form';
-import { icons, mail, map, phone, pin } from '@/components/site/social-icons';
+import { icons, mail, phone, pin } from '@/components/site/social-icons';
 import { Btn } from '@/components/site/ui';
 import {
     about,
@@ -79,23 +79,12 @@ export default function SiteFooter() {
                 <div className="footer-grid">
                     <div className="footer-intro">
                         <Brand variant="lockup" />
-                        <p>
-                            A specialty trade contractor founded in 2020,
-                            delivering HVAC, electronics, appliance, display,
-                            audio, and technical service solutions.
-                        </p>
                         <p className="footer-contact">
                             {pin}
                             <span>
                                 30 KN 1 Road, Muhima
                                 <br />
                                 Kigali, Rwanda
-                            </span>
-                        </p>
-                        <p className="footer-contact">
-                            {map}
-                            <span>
-                                Serving Rwanda, Burundi &amp; Eastern DRC
                             </span>
                         </p>
                         <p className="footer-contact">

@@ -27,7 +27,7 @@ return [
         'email' => 'sales@greenmeans.rw',
         'website' => 'www.greenmeans.rw',
         'linkedin' => 'https://www.linkedin.com/company/green-means-ltd',
-        'areas' => ['Rwanda', 'Burundi', 'Eastern Democratic Republic of Congo'],
+        'areas' => ['Rwanda'],
     ],
 
     /*
@@ -36,7 +36,6 @@ return [
      */
     'stats' => [
         ['label' => 'Year Founded', 'value' => 2020, 'start' => 2016, 'suffix' => '', 'grouping' => false],
-        ['label' => 'Countries Served', 'value' => 3, 'start' => 1, 'suffix' => ''],
         ['label' => 'Service Categories', 'value' => 8, 'start' => 1, 'suffix' => ''],
         ['label' => 'Repair Categories', 'value' => 5, 'start' => 1, 'suffix' => ''],
     ],
@@ -45,10 +44,6 @@ return [
         [
             'question' => 'What services does Green Means Ltd provide?',
             'answer' => 'HVAC design, equipment supply, installation, maintenance and repair, plus electronics and home appliances, indoor and outdoor displays, sound and audio solutions, and an electronics repair service centre.',
-        ],
-        [
-            'question' => 'Which areas do you serve?',
-            'answer' => 'We are headquartered in Kigali, Rwanda, and serve customers in Rwanda, Burundi, and Eastern DRC.',
         ],
         [
             'question' => 'What information do you need for an HVAC quote?',
