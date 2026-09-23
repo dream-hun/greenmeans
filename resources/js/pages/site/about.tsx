@@ -1,4 +1,3 @@
-import { Head } from '@inertiajs/react';
 import {
     PartnerLogos,
     StatsSection,
@@ -41,13 +40,6 @@ const capabilities = [
 export default function About({ stats, values, howWeWork }: Props) {
     return (
         <>
-            <Head title="About Us">
-                <meta
-                    name="description"
-                    content="Green Means Ltd is a privately held specialty trade contractor headquartered in Kigali, Rwanda, founded in 2020."
-                />
-            </Head>
-
             <PageHero
                 title="For Sustainable Solutions"
                 description="Green Means Ltd provides HVAC, electronics, appliances, display, audio, and technical service solutions with a focus on quality, sustainability, and customer requirements."

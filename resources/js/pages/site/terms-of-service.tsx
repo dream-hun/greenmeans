@@ -1,16 +1,8 @@
-import { Head } from '@inertiajs/react';
 import { appear, PageHero, Section } from '@/components/site/ui';
 
 export default function TermsOfService() {
     return (
         <>
-            <Head title="Terms of Service">
-                <meta
-                    name="description"
-                    content="The terms that apply to the use of the Green Means Ltd website and to enquiries submitted through it."
-                />
-            </Head>
-
             <PageHero
                 title="Terms of Service"
                 description="The terms that apply when you use this website and when you send us an enquiry."

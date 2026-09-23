@@ -2,6 +2,7 @@
 
 use App\Http\Middleware\HandleAppearance;
 use App\Http\Middleware\HandleInertiaRequests;
+use App\Support\Seo;
 use Illuminate\Foundation\Application;
 use Illuminate\Foundation\Configuration\Exceptions;
 use Illuminate\Foundation\Configuration\Middleware;
@@ -38,7 +39,9 @@ return Application::configure(basePath: dirname(__DIR__))
 
             Inertia::setRootView('site');
 
-            return Inertia::render('site/not-found')
+            return Inertia::render('site/not-found', [
+                'seo' => Seo::make('Page Not Found', 'The page you are looking for could not be found.')->noindex(),
+            ])
                 ->toResponse($request)
                 ->setStatusCode(404);
         });

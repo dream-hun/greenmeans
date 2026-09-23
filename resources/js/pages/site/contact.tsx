@@ -1,4 +1,3 @@
-import { Head } from '@inertiajs/react';
 import { ContactForm } from '@/components/site/contact-form';
 import { FaqSection } from '@/components/site/sections';
 import { appear, Section, SectionHeading } from '@/components/site/ui';
@@ -23,13 +22,6 @@ export default function Contact({
 }) {
     return (
         <>
-            <Head title="Contact Us">
-                <meta
-                    name="description"
-                    content="Contact Green Means Ltd about HVAC installation, maintenance, electronics, appliances, displays, audio solutions, or technical repair."
-                />
-            </Head>
-
             <section className="detail-page section-space">
                 <div className="page-container">
                     <div className="grid items-start gap-10 md:grid-cols-[1fr_1.15fr] lg:gap-12">

@@ -1,12 +1,9 @@
-import { Head } from '@inertiajs/react';
 import { appear, Btn, graphic } from '@/components/site/ui';
 import { home } from '@/routes';
 
 export default function NotFound() {
     return (
         <>
-            <Head title="Page Not Found" />
-
             <section className="page-hero section-space">
                 <img
                     src={graphic('83c45GSJMNdIfVlnq6R8iWwMYlU.svg')}

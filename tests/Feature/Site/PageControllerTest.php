@@ -1,5 +1,6 @@
 <?php
 
+use App\Models\Post;
 use Inertia\Testing\AssertableInertia;
 
 test('the home page renders with its content', function () {
@@ -52,17 +53,22 @@ test('a project page renders the project and two others', function () {
 });
 
 test('the blog lists the featured article separately', function () {
+    Post::factory()->featured()->create();
+    Post::factory()->count(2)->create();
+
     $response = $this->get(route('blog'));
 
     $response->assertOk();
     $response->assertInertia(fn (AssertableInertia $page) => $page
         ->component('site/blog')
         ->where('featured.featured', true)
-        ->has('posts', count(config('site.posts')) - 1)
+        ->has('posts.data', 2)
     );
 });
 
 test('an article page renders the requested article', function () {
+    Post::factory()->create(['slug' => 'understanding-vrf-systems', 'title' => 'Understanding VRF Systems']);
+
     $response = $this->get(route('blog.show', 'understanding-vrf-systems'));
 
     $response->assertOk();

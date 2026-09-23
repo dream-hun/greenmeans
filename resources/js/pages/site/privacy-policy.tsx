@@ -1,16 +1,8 @@
-import { Head } from '@inertiajs/react';
 import { appear, PageHero, Section } from '@/components/site/ui';
 
 export default function PrivacyPolicy() {
     return (
         <>
-            <Head title="Privacy Policy">
-                <meta
-                    name="description"
-                    content="How Green Means Ltd collects, uses, and protects the information you share with us."
-                />
-            </Head>
-
             <PageHero
                 title="Privacy Policy"
                 description="We respect your privacy and handle your data securely and responsibly."
