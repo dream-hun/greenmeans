@@ -1,4 +1,3 @@
-import { Head } from '@inertiajs/react';
 import { ProjectGrid, StepCards } from '@/components/site/sections';
 import {
     appear,
@@ -33,13 +32,6 @@ export default function Projects({
 }) {
     return (
         <>
-            <Head title="Our Projects">
-                <meta
-                    name="description"
-                    content="HVAC, climate-control, electronics, display, audio, and technical solutions delivered by Green Means Ltd."
-                />
-            </Head>
-
             <PageHero
                 title="Our Projects"
                 description="Explore HVAC, climate-control, electronics, display, audio, and technical solutions delivered by Green Means Ltd."

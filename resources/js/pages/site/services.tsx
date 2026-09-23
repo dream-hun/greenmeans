@@ -1,4 +1,3 @@
-import { Head } from '@inertiajs/react';
 import { Ticker } from '@/components/site/motion';
 import { FaqSection, ProcessCards } from '@/components/site/sections';
 import ServiceSlider from '@/components/site/service-slider';
@@ -29,13 +28,6 @@ const railImages = [
 export default function Services({ services, approach, faqs }: Props) {
     return (
         <>
-            <Head title="Our Services">
-                <meta
-                    name="description"
-                    content="Integrated solutions covering climate control, equipment supply, installation, maintenance, and repair from Green Means Ltd."
-                />
-            </Head>
-
             <PageHero
                 title="HVAC, Electronics & Technical Services"
                 description="Green Means Ltd provides integrated solutions covering climate control, equipment supply, installation, maintenance, and repair."

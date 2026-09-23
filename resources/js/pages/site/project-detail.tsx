@@ -1,4 +1,4 @@
-import { Head, Link } from '@inertiajs/react';
+import { Link } from '@inertiajs/react';
 import { Fragment } from 'react';
 import { ProjectGrid } from '@/components/site/sections';
 import {
@@ -41,10 +41,6 @@ export default function ProjectDetail({
 
     return (
         <>
-            <Head title={project.name}>
-                <meta name="description" content={project.summary} />
-            </Head>
-
             <section className="detail-page section-space">
                 <div className="page-container">
                     <Link

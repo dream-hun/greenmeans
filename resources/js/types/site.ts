@@ -53,19 +53,51 @@ export interface Project {
     outcome: string;
 }
 
-export type PostBlock =
-    | { heading: string }
-    | { text: string }
-    | { list: string[] };
-
-export interface Post {
+export interface PostSummary {
     slug: string;
-    number: string;
     title: string;
     category: string;
+    excerpt: string;
+    image: string | null;
+    image_alt: string;
     reading_time: string;
     featured: boolean;
+    published_at: string | null;
+}
+
+export interface Post extends PostSummary {
+    body: string;
+    updated_at: string | null;
+}
+
+export interface Seo {
+    title: string;
+    description: string;
+    canonical: string;
     image: string;
-    excerpt: string;
-    body: PostBlock[];
+    image_alt: string;
+    type: string;
+    robots: string;
+    site_name: string;
+    locale: string;
+    published_time: string | null;
+    modified_time: string | null;
+    schema: string;
+}
+
+export interface PaginationLink {
+    url: string | null;
+    label: string;
+    active: boolean;
+}
+
+export interface Paginated<T> {
+    data: T[];
+    current_page: number;
+    last_page: number;
+    per_page: number;
+    total: number;
+    prev_page_url: string | null;
+    next_page_url: string | null;
+    links: PaginationLink[];
 }

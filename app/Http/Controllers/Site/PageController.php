@@ -3,7 +3,7 @@
 namespace App\Http\Controllers\Site;
 
 use App\Http\Controllers\Controller;
-use Illuminate\Support\Arr;
+use App\Support\Seo;
 use Inertia\Inertia;
 use Inertia\Response;
 use Symfony\Component\HttpKernel\Exception\NotFoundHttpException;
@@ -16,6 +16,10 @@ class PageController extends Controller
     public function home(): Response
     {
         return Inertia::render('site/home', [
+            'seo' => Seo::make(
+                'HVAC, Electronics & Technical Solutions',
+                'Green Means Ltd delivers HVAC, climate-control, electronics, appliance, display, audio, and technical support solutions across Rwanda.',
+            )->schema($this->faqSchema()),
             'services' => $this->serviceCatalogue(),
             'projects' => array_slice($this->projectCatalogue(), 0, 2),
             'stats' => config('site.stats'),
@@ -31,6 +35,10 @@ class PageController extends Controller
     public function about(): Response
     {
         return Inertia::render('site/about', [
+            'seo' => Seo::make(
+                'About Us',
+                'Green Means Ltd is a privately held specialty trade contractor headquartered in Kigali, Rwanda, founded in 2020.',
+            )->image('/site/optimized/banner-about.webp')->breadcrumbs(['About Us' => route('about')]),
             'stats' => config('site.stats'),
             'values' => array_slice(config('site.values'), 0, 3),
             'howWeWork' => config('site.how_we_work'),
@@ -43,6 +51,10 @@ class PageController extends Controller
     public function services(): Response
     {
         return Inertia::render('site/services', [
+            'seo' => Seo::make(
+                'Our Services',
+                'Integrated solutions covering climate control, equipment supply, installation, maintenance, and repair from Green Means Ltd.',
+            )->breadcrumbs(['Our Services' => route('services')]),
             'services' => $this->serviceCatalogue(),
             'approach' => config('site.approach'),
             'faqs' => config('site.faqs'),
@@ -57,8 +69,26 @@ class PageController extends Controller
         $services = $this->serviceCatalogue();
         $index = $this->indexOf($services, $service);
 
+        /** @var array{slug: string, title: string, excerpt: string, image: string} $entry */
+        $entry = $services[$index];
+
         return Inertia::render('site/service-detail', [
-            'service' => $services[$index],
+            'seo' => Seo::make($entry['title'], $entry['excerpt'])
+                ->image("/site/optimized/{$entry['image']}.webp", $entry['title'])
+                ->breadcrumbs([
+                    'Our Services' => route('services'),
+                    $entry['title'] => route('services.show', $entry['slug']),
+                ])
+                ->schema([
+                    '@type' => 'Service',
+                    'name' => $entry['title'],
+                    'description' => $entry['excerpt'],
+                    'serviceType' => $entry['title'],
+                    'url' => route('services.show', $entry['slug']),
+                    'provider' => ['@id' => route('home').'#organization'],
+                    'areaServed' => ['@type' => 'Country', 'name' => 'Rwanda'],
+                ]),
+            'service' => $entry,
         ]);
     }
 
@@ -68,6 +98,10 @@ class PageController extends Controller
     public function projects(): Response
     {
         return Inertia::render('site/projects', [
+            'seo' => Seo::make(
+                'Our Projects',
+                'HVAC, climate-control, electronics, display, audio, and technical solutions delivered by Green Means Ltd.',
+            )->breadcrumbs(['Our Projects' => route('projects')]),
             'projects' => $this->projectCatalogue(),
             'process' => config('site.project_process'),
         ]);
@@ -81,42 +115,19 @@ class PageController extends Controller
         $projects = $this->projectCatalogue();
         $index = $this->indexOf($projects, $project);
 
+        /** @var array{slug: string, name: string, summary: string, image: string} $entry */
+        $entry = $projects[$index];
+
         return Inertia::render('site/project-detail', [
-            'project' => $projects[$index],
+            'seo' => Seo::make($entry['name'], $entry['summary'])
+                ->image("/site/optimized/{$entry['image']}.webp", $entry['name'])
+                ->breadcrumbs([
+                    'Our Projects' => route('projects'),
+                    $entry['name'] => route('projects.show', $entry['slug']),
+                ]),
+            'project' => $entry,
             'related' => array_slice(
                 array_merge(array_slice($projects, $index + 1), array_slice($projects, 0, $index)),
-                0,
-                2
-            ),
-        ]);
-    }
-
-    /**
-     * Show the blog index.
-     */
-    public function blog(): Response
-    {
-        $posts = $this->postCatalogue();
-
-        return Inertia::render('site/blog', [
-            'featured' => Arr::first($posts, fn (array $post): bool => $post['featured']) ?? $posts[0],
-            'posts' => array_values(array_filter($posts, fn (array $post): bool => ! $post['featured'])),
-            'categories' => array_values(array_unique(array_column($posts, 'category'))),
-        ]);
-    }
-
-    /**
-     * Show a single article.
-     */
-    public function post(string $post): Response
-    {
-        $posts = $this->postCatalogue();
-        $index = $this->indexOf($posts, $post);
-
-        return Inertia::render('site/blog-detail', [
-            'post' => $posts[$index],
-            'related' => array_slice(
-                array_merge(array_slice($posts, $index + 1), array_slice($posts, 0, $index)),
                 0,
                 2
             ),
@@ -129,6 +140,14 @@ class PageController extends Controller
     public function contact(): Response
     {
         return Inertia::render('site/contact', [
+            'seo' => Seo::make(
+                'Contact Us',
+                'Contact Green Means Ltd about HVAC installation, maintenance, electronics, appliances, displays, audio solutions, or technical repair.',
+            )->breadcrumbs(['Contact Us' => route('contact')])->schema([
+                '@type' => 'ContactPage',
+                'url' => route('contact'),
+                'about' => ['@id' => route('home').'#organization'],
+            ]),
             'services' => array_column($this->serviceCatalogue(), 'title'),
             'faqs' => config('site.faqs'),
         ]);
@@ -139,7 +158,12 @@ class PageController extends Controller
      */
     public function privacy(): Response
     {
-        return Inertia::render('site/privacy-policy');
+        return Inertia::render('site/privacy-policy', [
+            'seo' => Seo::make(
+                'Privacy Policy',
+                'How Green Means Ltd collects, uses, and protects the information you share with us.',
+            ),
+        ]);
     }
 
     /**
@@ -147,7 +171,12 @@ class PageController extends Controller
      */
     public function terms(): Response
     {
-        return Inertia::render('site/terms-of-service');
+        return Inertia::render('site/terms-of-service', [
+            'seo' => Seo::make(
+                'Terms of Service',
+                'The terms that apply to the use of the Green Means Ltd website and to enquiries submitted through it.',
+            ),
+        ]);
     }
 
     /**
@@ -171,13 +200,23 @@ class PageController extends Controller
     }
 
     /**
-     * The article catalogue, numbered in configuration order.
+     * Structured data for the frequently asked questions shown on the page.
      *
-     * @return list<array{slug: string, featured: bool, category: string, ...}>
+     * @return array<string, mixed>
      */
-    private function postCatalogue(): array
+    private function faqSchema(): array
     {
-        return $this->numbered(config('site.posts'));
+        /** @var list<array{question: string, answer: string}> $faqs */
+        $faqs = config('site.faqs');
+
+        return [
+            '@type' => 'FAQPage',
+            'mainEntity' => array_map(fn (array $faq): array => [
+                '@type' => 'Question',
+                'name' => $faq['question'],
+                'acceptedAnswer' => ['@type' => 'Answer', 'text' => $faq['answer']],
+            ], $faqs),
+        ];
     }
 
     /**

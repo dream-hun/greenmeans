@@ -1,4 +1,3 @@
-import { Head } from '@inertiajs/react';
 import { ServiceEnquiryForm } from '@/components/site/contact-form';
 import { appear, Btn, photo, SectionNumber } from '@/components/site/ui';
 import { contact } from '@/routes';
@@ -17,10 +16,6 @@ const environments = [
 export default function ServiceDetail({ service }: { service: Service }) {
     return (
         <>
-            <Head title={service.title}>
-                <meta name="description" content={service.excerpt} />
-            </Head>
-
             <section className="detail-page section-space">
                 <div className="page-container">
                     <div

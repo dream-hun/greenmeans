@@ -42,11 +42,7 @@ export default function Home({
 }: Props) {
     return (
         <>
-            <Head title="HVAC, Electronics & Technical Solutions">
-                <meta
-                    name="description"
-                    content="Green Means Ltd delivers HVAC, climate-control, electronics, appliance, display, audio, and technical support solutions across Rwanda."
-                />
+            <Head>
                 <link
                     rel="preload"
                     as="image"

@@ -6,6 +6,9 @@ import type { ComponentProps, CSSProperties, ReactNode } from 'react';
  */
 export const photo = (name: string) => `/site/optimized/${name}.webp`;
 export const graphic = (name: string) => `/site/images/${name}`;
+/** Articles without an uploaded image fall back to a generic banner. */
+export const postImage = (image: string | null) =>
+    image ?? photo('banner-footer');
 export const clip = (name: string) => `/site/video/${name}.mp4`;
 
 type AppearKind = 'up' | 'left' | 'right' | 'fade' | 'zoom' | 'zoom-sm';

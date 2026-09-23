@@ -748,7 +748,8 @@
         margin-top: 40px;
         margin-bottom: 6px;
     }
-    .prose > :first-child {
+    .prose > :first-child,
+    .prose .article-body > :first-child {
         margin-top: 0;
     }
     .prose ul {
@@ -764,11 +765,31 @@
     .prose li p {
         margin: 0;
     }
+    .prose a {
+        color: var(--color-forest);
+        text-decoration: underline;
+        text-underline-offset: 3px;
+    }
+    .prose strong {
+        color: var(--color-ink);
+        font-weight: 600;
+    }
+    .prose blockquote {
+        border-left: 3px solid var(--color-sage);
+        padding-left: 20px;
+        margin-top: 22px;
+        font-style: italic;
+    }
+    .prose img {
+        border-radius: 20px;
+        margin-top: 22px;
+    }
     /* Articles run several paragraphs, unlike the service pages the
        reference design used, so body copy needs its own rhythm. */
     .prose p + p,
     .prose ul + p,
-    .prose ol + p {
+    .prose ol + p,
+    .prose blockquote + p {
         margin-top: 18px;
     }
     .form-input {
