@@ -142,7 +142,7 @@ class Seo implements Arrayable
             '@id' => route('home').'#organization',
             'name' => $company['name'],
             'url' => route('home'),
-            'logo' => asset('site/brand/lockup.png'),
+            'logo' => asset('Greenmeans.png'),
             'image' => asset('site/optimized/hero-home-poster.webp'),
             'foundingDate' => (string) $company['founded'],
             'telephone' => $company['phone_link'],
