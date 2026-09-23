@@ -159,6 +159,8 @@ return [
     'services' => [
         [
             'slug' => 'hvac-design',
+            'seo_title' => 'HVAC Design & System Sizing in Rwanda',
+            'meta_description' => 'HVAC design in Rwanda: cooling load assessment, equipment sizing, VRF planning and air distribution for homes and commercial buildings. Request a design review.',
             'label' => 'HVAC Design',
             'title' => 'HVAC Design',
             'excerpt' => 'We assess cooling, heating, ventilation, space, occupancy, and operational requirements before recommending an appropriate HVAC solution.',
@@ -196,6 +198,8 @@ return [
         ],
         [
             'slug' => 'hvac-equipment-supply',
+            'seo_title' => 'HVAC & AC Equipment Supplier in Kigali',
+            'meta_description' => 'Air conditioners, VRF systems, heating and air handling units supplied in Kigali, matched to your project and backed by installation and support. Get a quote.',
             'label' => 'Equipment Supply',
             'title' => 'HVAC Equipment Supply',
             'excerpt' => 'We supply HVAC equipment for residential, commercial, institutional, and other applications, selected according to the project requirements.',
@@ -232,6 +236,8 @@ return [
         ],
         [
             'slug' => 'hvac-installation',
+            'seo_title' => 'AC & HVAC Installation in Kigali, Rwanda',
+            'meta_description' => 'Professional air conditioner, VRF and air handling unit installation in Kigali, with refrigerant piping, testing and commissioning. Book a site assessment.',
             'label' => 'HVAC Installation',
             'title' => 'HVAC Installation',
             'excerpt' => 'Our technicians install HVAC systems with attention to equipment positioning, connections, system configuration, testing, and operational performance.',
@@ -269,6 +275,8 @@ return [
         ],
         [
             'slug' => 'hvac-maintenance-repair',
+            'seo_title' => 'AC Repair & HVAC Maintenance in Kigali',
+            'meta_description' => 'AC repair, servicing and preventive HVAC maintenance in Kigali: fault diagnosis, refrigerant and coil checks, part replacement. Book a technician today.',
             'label' => 'Maintenance & Repair',
             'title' => 'HVAC Maintenance & Repair',
             'excerpt' => 'Regular maintenance helps HVAC equipment maintain performance and reduces the risk of avoidable failures.',
@@ -306,6 +314,8 @@ return [
         ],
         [
             'slug' => 'electronics-home-appliances',
+            'seo_title' => 'Electronics & Home Appliances in Kigali',
+            'meta_description' => 'TVs, refrigerators, washing machines, soundbars and home appliances supplied in Kigali for homes, offices and hotels, with after-sales support. Ask for a quote.',
             'label' => 'Electronics & Appliances',
             'title' => 'Electronics & Home Appliances',
             'excerpt' => 'We supply televisions, refrigerators, washing machines, home-theatre systems, soundbars, small appliances, and other electronics.',
@@ -343,6 +353,8 @@ return [
         ],
         [
             'slug' => 'display-solutions',
+            'seo_title' => 'Indoor & Outdoor Digital Displays, Rwanda',
+            'meta_description' => 'Indoor and outdoor digital display screens for retail, hospitality and corporate spaces in Rwanda, selected for brightness and viewing distance. Get a quote.',
             'label' => 'Display Solutions',
             'title' => 'Indoor & Outdoor Display Solutions',
             'excerpt' => 'We provide display solutions for organizations that need clear digital communication in indoor or outdoor environments.',
@@ -379,6 +391,8 @@ return [
         ],
         [
             'slug' => 'sound-audio-solutions',
+            'seo_title' => 'Sound & Audio System Installation, Kigali',
+            'meta_description' => 'Sound and audio systems for offices, meeting rooms, hotels, retail and homes in Kigali, supplied, installed and configured for your space. Request a quote.',
             'label' => 'Sound & Audio',
             'title' => 'Sound & Audio Solutions',
             'excerpt' => 'We supply sound and audio solutions according to the size and use of the space.',
@@ -415,6 +429,8 @@ return [
         ],
         [
             'slug' => 'repair-service-center',
+            'seo_title' => 'Refrigerator, TV & AC Repair in Kigali',
+            'meta_description' => 'Refrigerator, fridge, TV, air conditioner and phone repair in Kigali. Our service centre diagnoses faults before replacing parts. Contact us for a repair.',
             'label' => 'Repair & Service',
             'title' => 'Repair & Service Center',
             'excerpt' => 'Our service center provides technical diagnosis and repair for supported electronics and appliances.',
@@ -460,6 +476,8 @@ return [
     'projects' => [
         [
             'slug' => 'vrf-system-installation',
+            'seo_title' => 'VRF System Installation in Rwanda',
+            'meta_description' => 'VRF system design, supply and installation in Rwanda for buildings that need independent temperature control across multiple rooms or zones. Talk to our team.',
             'name' => 'VRF System Installation',
             'category' => 'VRF Systems',
             'status' => 'Capability showcase',
@@ -471,6 +489,8 @@ return [
         ],
         [
             'slug' => 'air-conditioning-installation',
+            'seo_title' => 'Air Conditioning Installation, Rwanda',
+            'meta_description' => 'Air conditioning supply, installation, maintenance and repair for homes, offices and institutions in Rwanda, sized to the real cooling load. Request a quote.',
             'name' => 'Air Conditioning Installation',
             'category' => 'Air Conditioning',
             'status' => 'Capability showcase',
@@ -482,6 +502,8 @@ return [
         ],
         [
             'slug' => 'heating-air-handling-units',
+            'seo_title' => 'Heating & Air Handling Units in Rwanda',
+            'meta_description' => 'Heating systems and air handling units in Rwanda, specified around ventilation needs, duct routes and service access, then tested before handover. Get in touch.',
             'name' => 'Heating & Air Handling Units',
             'category' => 'Heating & Ventilation',
             'status' => 'Capability showcase',
@@ -493,6 +515,8 @@ return [
         ],
         [
             'slug' => 'display-installations',
+            'seo_title' => 'Indoor & Outdoor Display Installation',
+            'meta_description' => 'Indoor and outdoor display installations for business, hospitality, retail and event spaces in Rwanda, configured and tested on site. Discuss your project.',
             'name' => 'Indoor & Outdoor Displays',
             'category' => 'Displays',
             'status' => 'Capability showcase',
@@ -504,6 +528,8 @@ return [
         ],
         [
             'slug' => 'sound-audio-systems',
+            'seo_title' => 'Sound & Audio System Projects in Rwanda',
+            'meta_description' => 'Sound and audio systems for meeting rooms, hospitality and retail spaces in Rwanda, specified for room size and use, installed and tested. Discuss your project.',
             'name' => 'Sound & Audio Systems',
             'category' => 'Audio Solutions',
             'status' => 'Capability showcase',
@@ -515,6 +541,8 @@ return [
         ],
         [
             'slug' => 'electronics-appliance-supply',
+            'seo_title' => 'Electronics & Appliance Supply, Rwanda',
+            'meta_description' => 'Televisions, refrigerators, washing machines and home-theatre systems supplied for homes, offices and commercial facilities in Rwanda. Request a quote today.',
             'name' => 'Electronics & Appliance Supply',
             'category' => 'Electronics',
             'status' => 'Capability showcase',

@@ -134,13 +134,17 @@ class Seo implements Arrayable
      */
     public static function organization(): array
     {
-        /** @var array{name: string, founded: int, address: array{street: string, area: string, country: string}, phone_link: string, email: string, linkedin: string, areas: list<string>} $company */
+        /** @var array{name: string, short_name: string, founded: int, address: array{street: string, area: string, country: string}, phone_link: string, email: string, linkedin: string, areas: list<string>} $company */
         $company = config('site.company');
+
+        /** @var list<array{slug: string, title: string}> $services */
+        $services = config('site.services');
 
         return [
             '@type' => 'HVACBusiness',
             '@id' => route('home').'#organization',
             'name' => $company['name'],
+            'alternateName' => $company['short_name'],
             'url' => route('home'),
             'logo' => asset('Greenmeans.png'),
             'image' => asset('site/optimized/hero-home-poster.webp'),
@@ -153,7 +157,22 @@ class Seo implements Arrayable
                 'addressLocality' => $company['address']['area'],
                 'addressCountry' => 'RW',
             ],
-            'areaServed' => array_map(fn (string $area): array => ['@type' => 'Country', 'name' => $area], $company['areas']),
+            'areaServed' => [
+                ['@type' => 'City', 'name' => 'Kigali'],
+                ...array_map(fn (string $area): array => ['@type' => 'Country', 'name' => $area], $company['areas']),
+            ],
+            'hasOfferCatalog' => [
+                '@type' => 'OfferCatalog',
+                'name' => 'HVAC and technical services',
+                'itemListElement' => array_map(fn (array $service): array => [
+                    '@type' => 'Offer',
+                    'itemOffered' => [
+                        '@type' => 'Service',
+                        'name' => $service['title'],
+                        'url' => route('services.show', $service['slug']),
+                    ],
+                ], $services),
+            ],
             'sameAs' => [$company['linkedin']],
         ];
     }

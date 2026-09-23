@@ -72,7 +72,7 @@ export default function ProjectDetail({
                             </p>
                             <img
                                 src={photo(project.image)}
-                                alt=""
+                                alt={`${project.name} by Green Means Ltd`}
                                 className="mt-16 aspect-[1.46] w-full rounded-[20px] object-cover"
                                 loading="eager"
                                 decoding="async"

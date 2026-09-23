@@ -63,7 +63,7 @@ export default function Home({
                 <div className="page-container">
                     <div className="hero-copy">
                         <h1 {...appear('fade', 0, true)}>
-                            Sustainable Solutions for
+                            Sustainable HVAC Solutions for
                             <br className="hidden md:block" /> Comfortable,
                             Efficient Spaces
                         </h1>
@@ -71,7 +71,7 @@ export default function Home({
                             HVAC, climate-control, electronics, appliance,
                             display, audio, and technical support solutions for
                             homes, businesses, institutions, and commercial
-                            facilities.
+                            facilities in Kigali and across Rwanda.
                         </p>
                         <div
                             className="mt-11.25 flex flex-wrap justify-center gap-3"

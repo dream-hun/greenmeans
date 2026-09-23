@@ -5,6 +5,18 @@
         <meta name="viewport" content="width=device-width,initial-scale=1">
         <meta name="theme-color" content="#1b4332">
 
+        @production
+            @if ($gtmId = config('services.google_tag_manager.id'))
+                <!-- Google Tag Manager -->
+                <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                })(window,document,'script','dataLayer',@js($gtmId));</script>
+                <!-- End Google Tag Manager -->
+            @endif
+        @endproduction
+
         <link rel="icon" href="/Greenmeans.png" type="image/png">
         <link rel="sitemap" type="application/xml" href="{{ route('sitemap') }}">
         <link rel="apple-touch-icon" href="/Greenmeans.png">
@@ -45,6 +57,14 @@
         </x-inertia::head>
     </head>
     <body class="bg-paper font-sans text-ink antialiased">
+        @production
+            @if ($gtmId = config('services.google_tag_manager.id'))
+                <!-- Google Tag Manager (noscript) -->
+                <noscript><iframe src="https://www.googletagmanager.com/ns.html?id={{ $gtmId }}"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+                <!-- End Google Tag Manager (noscript) -->
+            @endif
+        @endproduction
         <x-inertia::app />
     </body>
 </html>
