@@ -14,6 +14,8 @@ class SetSiteRootView
      *
      * The marketing site ships a separate stylesheet to the application,
      * so it cannot share the `app` root view.
+     *
+     * @param  Closure(Request): Response  $next
      */
     public function handle(Request $request, Closure $next): Response
     {

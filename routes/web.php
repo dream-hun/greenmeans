@@ -5,6 +5,8 @@ use App\Http\Controllers\Site\NewsletterController;
 use App\Http\Controllers\Site\PageController;
 use App\Http\Middleware\SetSiteRootView;
 use Illuminate\Support\Facades\Route;
+use Inertia\Inertia;
+use Inertia\Response;
 
 Route::middleware(SetSiteRootView::class)->group(function () {
     Route::get('/', [PageController::class, 'home'])->name('home');
@@ -29,7 +31,7 @@ Route::middleware(SetSiteRootView::class)->group(function () {
 });
 
 Route::middleware(['auth', 'verified'])->group(function () {
-    Route::inertia('dashboard', 'dashboard')->name('dashboard');
+    Route::get('dashboard', fn (): Response => Inertia::render('dashboard'))->name('dashboard');
 });
 
 require __DIR__.'/settings.php';

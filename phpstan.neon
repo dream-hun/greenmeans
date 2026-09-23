@@ -4,11 +4,13 @@ includes:
     - vendor/pestphp/pest-plugin-phpstan/extension.neon
 
 parameters:
+    checkConfigTypes: true
     paths:
         - app/
         - bootstrap/app.php
         - config/
         - database/
         - routes/
+        - tests/
 
-    level: 7
+    level: max

@@ -83,11 +83,11 @@ class PageController extends Controller
 
         return Inertia::render('site/project-detail', [
             'project' => $projects[$index],
-            'related' => array_values(array_slice(
+            'related' => array_slice(
                 array_merge(array_slice($projects, $index + 1), array_slice($projects, 0, $index)),
                 0,
                 2
-            )),
+            ),
         ]);
     }
 
@@ -115,11 +115,11 @@ class PageController extends Controller
 
         return Inertia::render('site/blog-detail', [
             'post' => $posts[$index],
-            'related' => array_values(array_slice(
+            'related' => array_slice(
                 array_merge(array_slice($posts, $index + 1), array_slice($posts, 0, $index)),
                 0,
                 2
-            )),
+            ),
         ]);
     }
 
@@ -173,7 +173,7 @@ class PageController extends Controller
     /**
      * The article catalogue, numbered in configuration order.
      *
-     * @return array<int, array<string, mixed>>
+     * @return list<array{slug: string, featured: bool, category: string, ...}>
      */
     private function postCatalogue(): array
     {
@@ -183,16 +183,21 @@ class PageController extends Controller
     /**
      * Add the display number used by the design to each entry.
      *
-     * @param  array<int, array<string, mixed>>  $entries
-     * @return array<int, array<string, mixed>>
+     * @template TEntry of array<string, mixed>
+     *
+     * @param  array<int, TEntry>  $entries
+     * @return list<TEntry>
      */
     private function numbered(array $entries): array
     {
-        return array_values(array_map(
-            fn (array $entry, int $index): array => [...$entry, 'number' => str_pad((string) ($index + 1), 2, '0', STR_PAD_LEFT)],
-            $entries,
-            array_keys($entries)
-        ));
+        $numberedEntries = [];
+
+        foreach ($entries as $index => $entry) {
+            $entry['number'] = str_pad((string) ($index + 1), 2, '0', STR_PAD_LEFT);
+            $numberedEntries[] = $entry;
+        }
+
+        return $numberedEntries;
     }
 
     /**

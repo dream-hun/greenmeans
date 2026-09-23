@@ -46,6 +46,30 @@ test('security page requires password confirmation when enabled', function () {
     $response->assertRedirect(route('password.confirm'));
 });
 
+test('security page displays a passkey without a creation timestamp', function () {
+    Features::passkeys(['confirmPassword' => true]);
+
+    $user = User::factory()->create();
+    $passkey = $user->passkeys()->create([
+        'name' => 'Security key',
+        'credential_id' => 'test-credential',
+        'credential' => [],
+    ]);
+    $passkey->created_at = null;
+    $passkey->save();
+
+    $this->actingAs($user)
+        ->withSession(['auth.password_confirmed_at' => time()])
+        ->get(route('security.edit'))
+        ->assertInertia(fn (Assert $page) => $page
+            ->component('settings/security')
+            ->has('passkeys', 1)
+            ->where('passkeys.0.name', 'Security key')
+            ->where('passkeys.0.created_at_diff', 'Unknown')
+            ->where('passkeys.0.last_used_at_diff', null),
+        );
+});
+
 test('security page renders without two factor when feature is disabled', function () {
     $this->skipUnlessFortifyHas(Features::twoFactorAuthentication());
 
