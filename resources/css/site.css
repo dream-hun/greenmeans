@@ -216,22 +216,16 @@
         gap: 11px;
         flex-shrink: 0;
     }
-    .brand-mark {
-        flex: none;
-        width: 36px;
-        height: auto;
-    }
-    /* The wordmark is a solid green; it is knocked out to white while the
-       header sits over the hero image. */
-    .brand-word {
-        height: 21px;
+    /* The logo file carries generous transparent padding; the fixed aspect
+       ratio with object-fit trims it visually without altering the image. */
+    .brand-logo {
+        display: block;
+        height: 54px;
         width: auto;
-        transition: filter 0.3s;
+        aspect-ratio: 2.8;
+        object-fit: cover;
     }
-    .header-home:not(.is-scrolled) .brand-word {
-        filter: brightness(0) invert(1);
-    }
-    .brand-lockup img {
+    .brand-lockup .brand-logo {
         width: 234px;
         height: auto;
     }
@@ -1299,11 +1293,8 @@
         min-height: 58px;
         padding: 8px 12px;
     }
-    .brand-mark {
-        width: 30px;
-    }
-    .brand-word {
-        height: 18px;
+    .brand-logo {
+        height: 44px;
     }
     .nav-actions .btn {
         display: none;
@@ -1599,7 +1590,7 @@
         margin-top: 36px;
         font-size: 12px;
     }
-    .brand-lockup img {
+    .brand-lockup .brand-logo {
         width: 200px;
     }
 }
