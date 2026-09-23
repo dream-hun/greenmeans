@@ -25,7 +25,10 @@ test('service pages use their search title and description', function () {
 test('every service and project has a title and description that fit search results', function (string $key) {
     $suffixLength = strlen(' - '.config('app.name'));
 
-    foreach (config("site.{$key}") as $entry) {
+    /** @var list<array{slug: string, seo_title: string, meta_description: string}> $entries */
+    $entries = config("site.{$key}");
+
+    foreach ($entries as $entry) {
         expect(strlen($entry['seo_title']) + $suffixLength)->toBeLessThanOrEqual(60, "{$entry['slug']} title");
         expect(strlen($entry['meta_description']))->toBeBetween(120, 160);
     }
