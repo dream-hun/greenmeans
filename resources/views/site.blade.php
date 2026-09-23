@@ -5,9 +5,9 @@
         <meta name="viewport" content="width=device-width,initial-scale=1">
         <meta name="theme-color" content="#1b4332">
 
-        <link rel="icon" href="/site/brand/mark-64.png" type="image/png" sizes="64x64">
+        <link rel="icon" href="/Greenmeans.png" type="image/png">
         <link rel="sitemap" type="application/xml" href="{{ route('sitemap') }}">
-        <link rel="apple-touch-icon" href="/site/brand/mark-64.png">
+        <link rel="apple-touch-icon" href="/Greenmeans.png">
         <link rel="preload" href="/site/fonts/inter-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin>
 
         @viteReactRefresh
