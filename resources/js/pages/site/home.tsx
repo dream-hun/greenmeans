@@ -68,10 +68,10 @@ export default function Home({
                             Efficient Spaces
                         </h1>
                         <p {...appear('up', 0.4, true)}>
-                            HVAC, climate-control, electronics, appliance,
-                            display, audio, and technical support solutions for
-                            homes, businesses, institutions, and commercial
-                            facilities in Kigali and across Rwanda.
+                            HVAC, refrigeration and cold room, electronics,
+                            appliance, display, audio, and technical support
+                            solutions for homes, businesses, institutions, and
+                            commercial facilities in Kigali and across Rwanda.
                         </p>
                         <div
                             className="mt-11.25 flex flex-wrap justify-center gap-3"

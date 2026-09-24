@@ -17,8 +17,8 @@ class PageController extends Controller
     {
         return Inertia::render('site/home', [
             'seo' => Seo::make(
-                'HVAC & Air Conditioning in Kigali, Rwanda',
-                'Green Means Ltd designs, supplies, installs and repairs air conditioning, VRF and HVAC systems in Kigali, Rwanda, plus appliance repair. Request a free quote.',
+                'HVAC, AC & Refrigeration in Kigali, Rwanda',
+                'Green Means Ltd installs and repairs air conditioning, VRF, cold room and refrigeration systems in Kigali, Rwanda, plus appliance repair. Get a free quote.',
             )->schema($this->faqSchema()),
             'services' => $this->serviceCatalogue(),
             'projects' => array_slice($this->projectCatalogue(), 0, 2),
@@ -53,7 +53,7 @@ class PageController extends Controller
         return Inertia::render('site/services', [
             'seo' => Seo::make(
                 'HVAC, AC & Electronics Services in Rwanda',
-                'HVAC design, AC installation, maintenance and repair, equipment supply, displays, audio and an appliance repair centre in Kigali, Rwanda. Explore our services.',
+                'HVAC design, AC installation and repair, cold rooms, refrigeration, equipment supply, displays, audio and appliance repair in Kigali, Rwanda. See our services.',
             )->breadcrumbs(['Our Services' => route('services')]),
             'services' => $this->serviceCatalogue(),
             'approach' => config('site.approach'),
