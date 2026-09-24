@@ -36,14 +36,14 @@ return [
      */
     'stats' => [
         ['label' => 'Year Founded', 'value' => 2020, 'start' => 2016, 'suffix' => '', 'grouping' => false],
-        ['label' => 'Service Categories', 'value' => 8, 'start' => 1, 'suffix' => ''],
+        ['label' => 'Service Categories', 'value' => 9, 'start' => 1, 'suffix' => ''],
         ['label' => 'Repair Categories', 'value' => 5, 'start' => 1, 'suffix' => ''],
     ],
 
     'faqs' => [
         [
             'question' => 'What services does Green Means Ltd provide?',
-            'answer' => 'HVAC design, equipment supply, installation, maintenance and repair, plus electronics and home appliances, indoor and outdoor displays, sound and audio solutions, and an electronics repair service centre.',
+            'answer' => 'HVAC design, equipment supply, installation, maintenance and repair, commercial refrigeration and cold rooms, plus electronics and home appliances, indoor and outdoor displays, sound and audio solutions, and an electronics repair service centre.',
         ],
         [
             'question' => 'What information do you need for an HVAC quote?',
@@ -310,6 +310,45 @@ return [
                 'Airflow and system performance maintained',
                 'Service requirements planned rather than reactive',
                 'Support for systems we installed and systems we did not',
+            ],
+        ],
+        [
+            'slug' => 'refrigeration-cold-rooms',
+            'seo_title' => 'Cold Room & Refrigeration Services, Rwanda',
+            'meta_description' => 'Cold room installation, commercial refrigeration and freezer rooms in Rwanda for food, agriculture, hospitality and pharmacy. Book a site assessment today.',
+            'label' => 'Refrigeration & Cold Rooms',
+            'title' => 'Commercial Refrigeration & Cold Rooms',
+            'excerpt' => 'We design, supply, install, and maintain cold rooms and commercial refrigeration for businesses that need dependable temperature-controlled storage.',
+            'summary' => 'Cold rooms, freezer rooms, and commercial refrigeration equipment for food retail, hospitality, agriculture, and healthcare, sized to the product, the temperature range, and the daily load.',
+            'image' => 'ac-outdoor-condenser',
+            'highlights' => [
+                'Cold rooms and freezer rooms',
+                'Temperature range matched to the product',
+                'Refrigeration capacity sized for the daily load',
+                'Maintenance and repair after installation',
+            ],
+            'features' => [
+                'Cold room design and installation',
+                'Freezer room installation',
+                'Commercial refrigeration equipment',
+                'Refrigeration maintenance and repair',
+                'Temperature control and monitoring',
+            ],
+            'intro' => 'A cold room has to hold the right temperature under real operating conditions: daily loading, door openings, ambient heat, and interruptions to the power supply. We start from what will be stored, the temperature it needs, how much product arrives each day, and where the room will be built, then specify the insulation, refrigeration capacity, and controls to suit.',
+            'included' => [
+                'Storage and temperature requirement assessment',
+                'Cold room and freezer room sizing',
+                'Insulated panels and doors',
+                'Refrigeration unit supply and installation',
+                'Refrigerant piping, drainage, and electrical requirements',
+                'Testing, temperature pull-down, and commissioning',
+                'Preventive maintenance and repair',
+            ],
+            'results' => [
+                'Storage temperature held for the product being stored',
+                'Refrigeration capacity sized for the real daily load',
+                'Energy use considered during equipment selection',
+                'Maintenance and repair from the team that installed it',
             ],
         ],
         [
