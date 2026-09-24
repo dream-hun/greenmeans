@@ -17,8 +17,8 @@ class PageController extends Controller
     {
         return Inertia::render('site/home', [
             'seo' => Seo::make(
-                'HVAC, Electronics & Technical Solutions',
-                'Green Means Ltd delivers HVAC, climate-control, electronics, appliance, display, audio, and technical support solutions across Rwanda.',
+                'HVAC & Air Conditioning in Kigali, Rwanda',
+                'Green Means Ltd designs, supplies, installs and repairs air conditioning, VRF and HVAC systems in Kigali, Rwanda, plus appliance repair. Request a free quote.',
             )->schema($this->faqSchema()),
             'services' => $this->serviceCatalogue(),
             'projects' => array_slice($this->projectCatalogue(), 0, 2),
@@ -36,8 +36,8 @@ class PageController extends Controller
     {
         return Inertia::render('site/about', [
             'seo' => Seo::make(
-                'About Us',
-                'Green Means Ltd is a privately held specialty trade contractor headquartered in Kigali, Rwanda, founded in 2020.',
+                'About Us: HVAC Contractor in Kigali',
+                'Green Means Ltd is a Kigali-based HVAC and technical services contractor, founded in 2020, delivering air conditioning, electronics and repair across Rwanda.',
             )->image('/site/optimized/banner-about.webp')->breadcrumbs(['About Us' => route('about')]),
             'stats' => config('site.stats'),
             'values' => array_slice(config('site.values'), 0, 3),
@@ -52,8 +52,8 @@ class PageController extends Controller
     {
         return Inertia::render('site/services', [
             'seo' => Seo::make(
-                'Our Services',
-                'Integrated solutions covering climate control, equipment supply, installation, maintenance, and repair from Green Means Ltd.',
+                'HVAC, AC & Electronics Services in Rwanda',
+                'HVAC design, AC installation, maintenance and repair, equipment supply, displays, audio and an appliance repair centre in Kigali, Rwanda. Explore our services.',
             )->breadcrumbs(['Our Services' => route('services')]),
             'services' => $this->serviceCatalogue(),
             'approach' => config('site.approach'),
@@ -69,11 +69,11 @@ class PageController extends Controller
         $services = $this->serviceCatalogue();
         $index = $this->indexOf($services, $service);
 
-        /** @var array{slug: string, title: string, excerpt: string, image: string} $entry */
+        /** @var array{slug: string, title: string, seo_title: string, meta_description: string, excerpt: string, image: string} $entry */
         $entry = $services[$index];
 
         return Inertia::render('site/service-detail', [
-            'seo' => Seo::make($entry['title'], $entry['excerpt'])
+            'seo' => Seo::make($entry['seo_title'], $entry['meta_description'])
                 ->image("/site/optimized/{$entry['image']}.webp", $entry['title'])
                 ->breadcrumbs([
                     'Our Services' => route('services'),
@@ -99,8 +99,8 @@ class PageController extends Controller
     {
         return Inertia::render('site/projects', [
             'seo' => Seo::make(
-                'Our Projects',
-                'HVAC, climate-control, electronics, display, audio, and technical solutions delivered by Green Means Ltd.',
+                'HVAC & Air Conditioning Projects in Rwanda',
+                'VRF, air conditioning, heating, air handling, display and audio work by Green Means Ltd across Rwanda, from site assessment to handover. View our projects.',
             )->breadcrumbs(['Our Projects' => route('projects')]),
             'projects' => $this->projectCatalogue(),
             'process' => config('site.project_process'),
@@ -115,11 +115,11 @@ class PageController extends Controller
         $projects = $this->projectCatalogue();
         $index = $this->indexOf($projects, $project);
 
-        /** @var array{slug: string, name: string, summary: string, image: string} $entry */
+        /** @var array{slug: string, name: string, seo_title: string, meta_description: string, summary: string, image: string} $entry */
         $entry = $projects[$index];
 
         return Inertia::render('site/project-detail', [
-            'seo' => Seo::make($entry['name'], $entry['summary'])
+            'seo' => Seo::make($entry['seo_title'], $entry['meta_description'])
                 ->image("/site/optimized/{$entry['image']}.webp", $entry['name'])
                 ->breadcrumbs([
                     'Our Projects' => route('projects'),
@@ -141,8 +141,8 @@ class PageController extends Controller
     {
         return Inertia::render('site/contact', [
             'seo' => Seo::make(
-                'Contact Us',
-                'Contact Green Means Ltd about HVAC installation, maintenance, electronics, appliances, displays, audio solutions, or technical repair.',
+                'Contact Us for an HVAC Quote in Kigali',
+                'Request a quote for AC installation, HVAC maintenance, AC repair or appliance repair in Kigali. Call 0793 084 852 or email sales@greenmeans.rw today.',
             )->breadcrumbs(['Contact Us' => route('contact')])->schema([
                 '@type' => 'ContactPage',
                 'url' => route('contact'),

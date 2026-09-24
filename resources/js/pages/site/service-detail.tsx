@@ -35,7 +35,7 @@ export default function ServiceDetail({ service }: { service: Service }) {
 
                     <img
                         src={photo(service.image)}
-                        alt=""
+                        alt={`${service.title} by Green Means Ltd in Kigali, Rwanda`}
                         className="mb-[100px] aspect-[3] w-full rounded-[20px] object-cover"
                         loading="eager"
                         decoding="async"

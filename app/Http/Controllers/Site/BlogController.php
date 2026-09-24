@@ -126,11 +126,11 @@ class BlogController extends Controller
     private function indexSeo(?string $category, LengthAwarePaginator $posts): Seo
     {
         $page = $posts->currentPage();
-        $title = $category === null ? 'Insights & Updates' : "{$category} Insights";
+        $title = $category === null ? 'HVAC & Air Conditioning Insights' : "{$category} Insights";
 
         return Seo::make(
             $page > 1 ? "{$title} (Page {$page})" : $title,
-            'Practical information on HVAC systems, energy-efficient climate control, equipment maintenance, electronics, and technical solutions from Green Means Ltd.',
+            'Practical guides on air conditioning, VRF systems, HVAC maintenance, energy-efficient cooling and appliance care in Rwanda from the Green Means Ltd team.',
         )
             ->canonical(route('blog', array_filter(['category' => $category, 'page' => $page > 1 ? $page : null])))
             ->breadcrumbs(['Insights & Updates' => route('blog')])
